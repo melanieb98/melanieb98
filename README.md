@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **melanieb98/melanieb98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 this is the github account i will use for all assignments while studying at wake tech community college
