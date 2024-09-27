@@ -25,7 +25,11 @@ i used to be a professional pastry chef, in napa, california, until the covid pa
 ## Useful Sites and Tools:
 
 [Krita](https://krita.org/en/) - free open source painting software
+
 [Blender](https://www.blender.org/) - free open source 3d modeling software
+
 [Godot](https://godotengine.org/) - free open source game engine
+
 [Renpy](https://www.renpy.org/) - another free and open source game engine specifically for visual novels
+
 [itch.io](https://itch.io/) - indie game hosting website
