@@ -15,7 +15,9 @@ my name is Melanie B!
 - 🤔 I’m looking for help with: GDScript
 - 💬 Ask me about: bread recipes
 - 📫 How to reach me:
-        email: adblake@my.waketech.edu
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email: adblake@my.waketech.edu
+
 - 😄 Pronouns: she/her
 
 ## My Interests:
