@@ -16,4 +16,3 @@ my name is Melanie B!
 - 📫 How to reach me:
         email: adblake@my.waketech.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
