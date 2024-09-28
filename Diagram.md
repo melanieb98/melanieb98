@@ -8,7 +8,7 @@ flowchart TD
     st2--User inputs their guess-->st3[Sanitize user input to make sure it's nothing but any two numerical digits];
     st3--If user inputs something other than a number between 0 and 99-->st3.1{#quot;Please choose a number between 0 and 99#quot;};
     st3.1-->st2;
-    st3-->st4[Compare user input to the random number];
+    st3--If input matches the requirements-->st4[Compare user input to the random number];
     st4--If the guess is lower than the random number-->lower[#quot;The number you guessed was lower than the target#quot;];
     st4--If the guess is higher than the random number-->higher[#quot;The number you guessed was higher than the target#quot;];
     st4--If the user guessed the number correctly-->correct[#quot;Good job! You guessed the number correctly#quot;];
