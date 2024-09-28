@@ -2,5 +2,6 @@
 
 flowchart TD
 
-    A-->B;
-    B-->C;
+    Start[Start]-->End[End];
+
+```
