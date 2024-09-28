@@ -16,7 +16,7 @@ flowchart TD
     higher-->repeat;
     correct-->repeat;
     repeat--If yes-->st1;
-    repeat--If no-->stop[#quot;Thank you!#quot;];
+    repeat--If no -->stop[#quot;Thank you!#quot;];
     stop-->End[End];
 
 ```
