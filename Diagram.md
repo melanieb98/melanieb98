@@ -13,6 +13,8 @@ flowchart TD
     st4--If the guess is higher than the random number-->higher[#quot;The number you guessed was higher than the target#quot;];
     st4--If the user guessed the number correctly-->correct[#quot;Good job! You guessed the number correctly#quot;];
     lower-->repeat[#quot;Would you like to go again?#quot;];
+    higher-->repeat;
+    correct-->repeat;
     repeat--If yes-->st1;
     repeat--If no-->stop[#quot;Thank you!#quot;];
     stop-->End[End];
