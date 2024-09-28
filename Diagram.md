@@ -15,6 +15,6 @@ flowchart TD
     lower-->repeat[Would you like to go again?];
     repeat-->st1;
     repeat-->stop[Thank you!];
-    stop--?End[End];
+    stop-->End[End];
 
 ```
