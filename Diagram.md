@@ -2,7 +2,7 @@
 
 flowchart TD
 
-    Start[Start]-->st1[Define possible range of random numbers (0-99)];
+    Start[Start]-->st1[Define possible range of random numbers 0-99];
     st1-->st1.1[Generate a random number within that range];
     st1.1-->st2[Ask for user input];
     st2-->st3[Sanitize user input (make sure it's nothing but any two numerical digits)];
