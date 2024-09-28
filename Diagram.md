@@ -3,10 +3,10 @@
 flowchart TD
 
     Start[Start]-->st1[#quot;I'm going to think of a number between 0 and 99. Can you guess what number I'm thinking of?#quot;];
-    st1-->st1.1[Generate a random number within that range];
+    st1--Enter-->st1.1[Generate a random number within that range];
     st1.1-->st2[Ask for user input];
     st2-->st3[Sanitize user input to make sure it's nothing but any two numerical digits];
-    st3-->st3.1[#quot;Please choose a number between 0 and 99#quot;];
+    st3--If user inputs something other than a number between 0 and 99-->st3.1{#quot;Please choose a number between 0 and 99#quot;};
     st3.1-->st2;
     st3-->st4[Compare user input to the random number];
     st4-->lower[#quot;The number you guessed was lower than the target#quot;];
