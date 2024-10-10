@@ -1,39 +1,73 @@
 # Table of Contents:
+
 ## [Week 1](#week-1-1)
-### Vocab
-### Questions
-### Concepts
-## Week 2
-### Vocab
-### Questions
-### Concepts
-## Week 3
-### Vocab
-### Questions
-### Concepts
-## Week 4
-### Vocab
-### Questions
-### Concepts
-## Week 5
-### Vocab
-### Questions
-### Concepts
-## Week 6
-### Vocab
-### Questions
-### Concepts
-## Week 7
-### Vocab
-### Questions
-### Concepts
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
+## [Week 2]
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
+## [Week 3]
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
+## [Week 4]
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
+## [Week 5]
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
+## [Week 6]
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
+## [Week 7]
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
 ## [Week 8](#week-8-1)
-### Vocab
-### Questions
-### Concepts
+
+### [Vocab]
+
+### [Questions]
+
+### [Concepts]
+
 
 
 # <a name="w1">Week 1:</a>
+
 ## Vocabulary
 
 ## Example questions
@@ -41,6 +75,7 @@
 ## Essential concepts
 
 # Week 2:
+
 ## Vocabulary
 
 ## Example questions
@@ -48,6 +83,7 @@
 ## Essential concepts
 
 # Week 3:
+
 ## Vocabulary
 
 ## Example questions
@@ -55,6 +91,7 @@
 ## Essential concepts
 
 # Week 4:
+
 ## Vocabulary
 
 ## Example questions
@@ -62,10 +99,13 @@
 ## Essential concepts
 
 # Week 5:
+
 ## Vocabulary
 
 ## Example questions
+
 ### Module 5 Blackboard Quiz
+
 Q: Anola is the security administrator in XYZ consulting. She is asked to suggest a deployment method where the data is stored in a completely secure, centralized server and accessed by authorized employees using their own devices. Which deployment should Anola choose?
 A: Virtual desktop infrastructure (VDI)
 
@@ -134,7 +174,9 @@ A: Cellular
 ## Essential concepts
 
 # Week 6:
+
 ## Vocabulary
+
 Steganography
 Decryption
 Cryptography
@@ -180,7 +222,9 @@ Ephemeral key
 Symmetric cryptographic algorithm
 
 ## Example questions
+
 ### MindTap quiz/HW
+
 Q: Which of the following hides the existence of information?
 A: Steganography
 
@@ -242,6 +286,7 @@ Q: Which of these provides cryptographic services and is external to the device?
 A: Hardware security module (HSM)
 
 ### Module 6 Blackboard Quiz
+
 Q: Which of the following is used to create a sequence of numbers whose output is close to a random number?
 A: PRNG
 
@@ -305,7 +350,9 @@ A: Nonrepudiation
 ## Essential concepts
 
 # Week 7:
+
 ## Vocabulary
+
 Digital certificate
 Certificate signing request (CSR)
 Registration authority
@@ -359,12 +406,15 @@ Authentication mode of operation
 Block cipher mode of operation
 Unauthenticated mode of operation
 Counter (CTR)
+
 ## Example questions
 
 ## Essential concepts
 
 # Week 8:
+
 ## Vocabulary
+
 Session replay
 Man-in-the-middle (MITM)
 MAC cloning attack
@@ -449,6 +499,7 @@ Vault
 Faraday cage
 Cable lock
 Macro
+
 ## Example questions
 
 ## Essential concepts
