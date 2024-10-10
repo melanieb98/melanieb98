@@ -284,6 +284,148 @@ A: Bot herder
 
 ## Vocabulary
 
+Indicator of compromise (IOC)
+
+Predictive analysis
+
+Open source
+
+Trusted automated exchange of intelligence information (TAXII)
+
+Public information sharing centers
+
+Structured threat information expression (STIX)
+
+Automated indicator sharing (AIS)
+
+Closed source
+
+Private information sharing centers
+
+Vulnerability database
+
+File and code repositories
+
+Threat map
+
+Dark web
+
+UEFI (Unified Extensible Firmware Interface)
+
+Hardware root of trust
+
+Measured boot
+
+Antimalware
+
+Boot attestation
+
+Antivirus (AV)
+
+HTTP response headers
+
+Secure cookie
+
+Host intrusion detection system (HIDS)
+
+Host intrusion prevention system (HIPS)
+
+Auto-update
+
+Third-party updates
+
+Endpoint detection and response (EDR)
+
+Registry
+
+Disabling unnecessary open ports and services
+
+Blacklisting
+
+Application whitelisting/blacklisting
+
+Sandbox
+
+Quarantine
+
+Whitelisting
+
+Directory traversal
+
+Memory management
+
+Testing stage 
+
+Development stage
+
+Staging stage
+
+Production stage
+
+Software diversity
+
+Deprovisioning
+
+Compilers
+
+Provisioning
+
+Integrity measurement
+
+Binary
+
+Elasticity 
+
+Secure coding practices and techniques
+
+Quality assurance (QA)
+
+Continuous monitoring
+
+Automated courses of action
+
+Scalability
+
+Continuous delivery
+
+Continuous deployment
+
+Continuous validation
+
+Continuous integration
+
+Version control
+
+OWASP (Open Web Application Security Project)
+
+Data exposure
+
+Proper input validation
+
+Normalization
+
+Stored procedure
+
+Code signing
+
+Dead code
+
+Obfuscation/camouflaged code
+
+Server-side execution and validation
+
+Client-side execution and validation
+
+Code reuse of third-party libraries and SDKs
+
+Dynamic code analysis
+
+Manual peer reviews
+
+Static code analysis 
+
+Fuzzing
+
 ## Example questions
 
 ### Module 4 Blackboard Quiz
