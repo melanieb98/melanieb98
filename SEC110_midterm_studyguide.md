@@ -141,6 +141,142 @@ A: Spimming
 
 ## Vocabulary
 
+Red team
+
+Penetration testing
+
+White team
+
+Purple team
+
+Blue team
+
+Bug bounty
+
+Gray box
+
+Black box
+
+White box
+
+Rules of engagement
+
+Cleanup
+
+Footprinting
+
+War driving
+
+Persistence
+
+War flying
+
+Drones
+
+Passive reconnaissance
+
+Unmanned aerial vehicles (UAVs)
+
+Open source intelligence (OSINT)
+
+Privilege escalation
+
+Lateral movement
+
+Pivot
+
+Vulnerability scan
+
+Non-credentialed scan
+
+Credentialed scan
+
+Intrusive scan
+
+Configuration review
+
+Nonintrusive scan
+
+Log
+
+False negative
+
+Common vulnerabilities and exposures (CVE)
+
+Common vulnerability scoring system (CVSS)
+
+False positive
+
+Log reviews
+
+User behavior analysis
+
+Sentiment analysis
+
+Security information and event management (SIEM)
+
+Security orchestration, automation, and response (SOAR)
+
+Maneuvering
+
+Threat feeds
+
+Fustion center
+
+Threat hunting
+
+Framework
+
+ISO 27002
+
+NIST ridsk management framework (RMF)
+
+ISO 27001
+
+NIST cybersecurity framework (CSF)
+
+ISO 27701
+
+ISO 31000
+
+SSAE SOC 2 Type II
+
+SSAE SOC 2 Type III
+
+Center for internet security (CIS)
+
+Reference architecture
+
+Cloud controls matrix
+
+Cloud security alliance (CSA)
+
+Regulations
+
+Payment card industry data security standard (PCI DSS)
+
+Benchmark/secure configuration guides
+
+European union general data protection directive (GDPR)
+
+Standard
+
+Platform/vendor-specific guides
+
+Adversary tactics, techniques, and procedures (TTP)
+
+Requests for comments (RFCs)
+
+Vulnerability feeds
+
+Security orchestration, automation and response (SOAR)
+
+Request for comments (RFC)
+
+Drone
+
+Unmanned aerial vehicle (UAV)
+
 ## Example questions
 
 ### Module 2 Blackboard Quiz
