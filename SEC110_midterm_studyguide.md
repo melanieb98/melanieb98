@@ -27,7 +27,7 @@
 ### Vocab
 ### Questions
 ### Concepts
-## [Week 8](#w8)
+## [Week 8](#week-8-1)
 ### Vocab
 ### Questions
 ### Concepts
@@ -363,7 +363,7 @@ Counter (CTR)
 
 ## Essential concepts
 
-# <a name="w8">Week 8:</a>
+# Week 8:
 ## Vocabulary
 Session replay
 Man-in-the-middle (MITM)
