@@ -80,175 +80,175 @@
 
 ###### [Week 1](#week-1-1)
 
-Threat actor
+- Threat actor
 
-Insider threat
+- Insider threat
 
-Level of capability/sophistication
+- Level of capability/sophistication
 
-Hacktivists
+- Hacktivists
 
-Advanced persistent threat (APT)
+- Advanced persistent threat (APT)
 
-Hacker
+- Hacker
 
-Gray hat hackers
+- Gray hat hackers
 
-Script kiddies
+- Script kiddies
 
-Black hat hackers
+- Black hat hackers
 
-Attributes
+- Attributes
 
-White hat hackers
+- White hat hackers
 
-State actors
+- State actors
 
-Intent/motivation
+- Intent/motivation
 
-Resources and funding
+- Resources and funding
 
-Internal 
+- Internal 
 
-External
+- External
 
-On-premises platform
+- On-premises platform
 
-Legacy platform
+- Legacy platform
 
-Criminal syndicates
+- Criminal syndicates
 
-Weak configurations
+- Weak configurations
 
-Cloud platform
+- Cloud platform
 
-Competitors
+- Competitors
 
-Default settings
+- Default settings
 
-Shadow IT
+- Shadow IT
 
-Open permissions
+- Open permissions
 
-Unsecured root accounts
+- Unsecured root accounts
 
-Open ports and services
+- Open ports and services
 
-Unsecure protocols
+- Unsecure protocols
 
-Impersonation
+- Impersonation
 
-Patch
+- Patch
 
-Attack vector
+- Attack vector
 
-Zero day
+- Zero day
 
-Outsourced code development
+- Outsourced code development
 
-Third parties
+- Third parties
 
-Hybrid warfare influence campaign
+- Hybrid warfare influence campaign
 
-Supply chain
+- Supply chain
 
-Social engineering
+- Social engineering
 
-Vendor management
+- Vendor management
 
-Familiarity
+- Familiarity
 
-Data storage
+- Data storage
 
-Intimidation
+- Intimidation
 
-Errors
+- Errors
 
-System integration
+- System integration
 
-Weak encryption
+- Weak encryption
 
-Lack of vendor support
+- Lack of vendor support
 
-Urgency
+- Urgency
 
-Trust
+- Trust
 
-Firmware
+- Firmware 
 
-Authority
+- Authority
 
-Direct access
+- Direct access
 
-Prepending
+- Prepending
 
-Social media influence campaign
+- Social media influence campaign
 
-Scarcity
+- Scarcity
 
-Consensus
+- Consensus
 
-Eliciting information
+- Eliciting information
 
-Influence campaigns
+- Influence campaigns
 
-Pretexting
+- Pretexting
 
-Identity fraud
+- Identity fraud
 
-Reconnaissance
+- Reconnaissance
 
-Invoice scam
+- Invoice scam
 
-Phishing
+- Phishing
 
-Credential harvesting
+- Credential harvesting
 
-Spear phishing
+- Spear phishing
 
-Whaling
+- Whaling
 
-Vishing
+- Vishing
 
-Pharming
+- Pharming
 
-Typo squatting
+- Typo squatting
 
-Smishing
+- Smishing
 
-Spam
+- Spam
 
-Hoax
+- Hoax
 
-Spim
+- Spim
 
-Watering hole attack
+- Watering hole attack
 
-Tailgating
+- Tailgating
 
-Shoulder surfing
+- Shoulder surfing
 
-Dumpster diving
+- Dumpster diving
 
-Data exfiltration
+- Data exfiltration
 
-Data loss
+- Data loss
 
-Data breach
+- Data breach
 
-Availability loss
+- Availability loss
 
-Identity theft
+- Identity theft
 
-Financial loss
+- Financial loss
 
-Reputation
+- Reputation
 
-Cloud platforms
+- Cloud platforms
 
-Identity fraud (also called impersonation)
+- Identity fraud (also called impersonation)
 
-Impersonation (also called identity fraud)
+- Impersonation (also called identity fraud)
 
 ## Example questions
 
