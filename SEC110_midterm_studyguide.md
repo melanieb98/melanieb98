@@ -68,6 +68,8 @@
 
 # Week 1:
 
+###### [Back to the top](#table-of-contents-1)
+
 ## Vocabulary
 
 Threat actor
