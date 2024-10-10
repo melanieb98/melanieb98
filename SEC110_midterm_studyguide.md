@@ -1,5 +1,5 @@
 # Table of Contents:
-## [Week 1](#w1)
+## [Week 1](#week-1-1)
 ### Vocab
 ### Questions
 ### Concepts
