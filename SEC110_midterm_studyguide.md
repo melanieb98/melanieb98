@@ -143,6 +143,68 @@ A: Spimming
 
 ## Example questions
 
+### Module 2 Blackboard Quiz
+
+Q: Which of the following technologies can be used together for data management in security infrastructure and collecting and analyzing data.  
+A: SIEM and SOAR
+
+Q: Kelly is a vulnerability assessment engineer. She is told to find surface vulnerabilities on all internet-facing web servers in the network. Which of the following are surface vulnerabilities that she should initially chase?  
+A: 
+
+Q: A cyber analyst needs to quickly do a vulnerability scan on an enterprise network with many devices. Which approach should the analyst take?  
+A: 
+
+Q: How can a configuration review reduce the impact of a vulnerability scan on the network’s overall performance?  
+A: 
+
+Q: What is the primary goal of penetration testing?  
+A: Attempt to uncover deep vulnerabilities and then manually exploit them
+
+Q: Which of the following is the advantage of penetration testing over vulnerability scanning?  
+A: Penetration testing uncovers and exploits deep vulnerabilities, while vulnerability scanning only discovers surface level vulnerabilities. 
+
+Q: Kile is assigned a role as a grey box penetration tester in the financial sector. He has to conduct a pen testing attack on all the application servers in the network. Which of the following tasks should he perform first while conducting a penetration testing attack on a network?  
+A: Footprinting 
+
+Q: What is the most accurate explanation of sentiment analysis, and what kind of a tool or product can be utilized to perform this operation?  
+A: Using text analysis techniques and IBM QRadar to interpret and classify emotions (positive, negative, neutral) within text data)
+
+Q: What is the primary difference between credentialed and non-credentialed scans?  
+A: Credentialed scans use valid authentication credentials to mimic threat actors, while non-credentialed scans do not provide authentication credentials. 
+
+Q: Which of the following is considered an industry-specific cybersecurity regulation?  
+A: 
+
+Q: Which operation is carried out by proactively searching security logs for cyber threats that have thus far gone undetected.  
+A: Threat hunting
+
+Q: Alice, a vulnerability assessment engineer at a bank, is told to find all the vulnerabilities on an internet-facing web application server running on port HTTPS. When she finishes the vulnerability scan, she finds several different vulnerabilities at different levels. How should she proceed?  
+A: Look at the priority and the accuracy of the vulnerability
+
+Q: Which of the following techniques is a method of passive reconnaissance?  
+A: Open Source Intelligence (OSINT)
+
+Q: Which of the following is a primary difference between a red team and a white team?  
+A: The red team scans for vulnerabilities and exploits them manually, whereas the white team defines the rules of the penetration testing
+
+Q: Which of the following compliance standards was introduced to provide a minimum degree of security to organizations who handle customer information such as debit card and credit card details daily?  
+A: PCIDSS
+
+Q: Which of the following penetration testing consultants have limited knowledge of the network and some elevated privileges?  
+A: Gray box
+
+Q: Robert is a black box penetration tester who conducted pen testing attacks on all of the network’s application servers. He was able to exploit a vulnerability and gain access to the system using a mimikatz tool. Which of the following activities did he perform using mimikatz, and which task should he perform next?  
+A: Robert used mimikatz for credential harvesting, and should perform privilege escalation using a high-privileged account next.
+
+Q: What are the primary features of a security information event management (SIEM) tool?  
+A: Aggregation, correlation, event deduplication, time synchronization, and alerting
+
+Q: which of the following tools can be used to scan 16 IP addresses for vulnerabilities?  
+A: Nessus essentials
+
+Q: Which penetration testing consultants are not given any knowledge of the network nor any elevated privileges?  
+A: Black box
+
 ## Essential concepts
 
 # Week 3:
