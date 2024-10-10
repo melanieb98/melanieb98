@@ -104,7 +104,7 @@ A: Waterfall development
 Q: Daniel accidentally installed a vulnerable application. Which of the following system exploitations would NOT be caused by the vulnerable application?  
 A: Social engineering and phishing attacks
 
-Q: Which endpoint application runs on an endpoint device that only detects an attack in an endpoint device?
+Q: Which endpoint application runs on an endpoint device that only detects an attack in an endpoint device?  
 A: HIDS
 
 Q: A company has approached you for their product testing, and you agree to do it. First, you have to install the necessary plugins for the software through the browser, install the software, and run the software again. What procedure should you adopt to ensure that you don't compromise the browser and the computer's operating system?  
