@@ -68,7 +68,7 @@
 
 # Week 1:
 
-###### [Back to the top](#table-of-contents-1)
+###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
@@ -311,6 +311,8 @@ A: Spimming
 
 # Week 2:
 
+###### [Back to the top](#table-of-contents)
+
 ## Vocabulary
 
 Red team
@@ -517,6 +519,8 @@ A: Black box
 
 # Week 3:
 
+###### [Back to the top](#table-of-contents)
+
 ## Vocabulary
 
 Malware
@@ -675,6 +679,8 @@ A: Bot herder
 ## Essential concepts
 
 # Week 4:
+
+###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
@@ -888,6 +894,8 @@ A: The cybersecurity expert checked with CISCP and also investigated the dark we
 
 # Week 5:
 
+###### [Back to the top](#table-of-contents)
+
 ## Vocabulary
 
 Infrared
@@ -1080,6 +1088,8 @@ A: Cellular
 ## Essential concepts
 
 # Week 6:
+
+###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
@@ -1299,6 +1309,8 @@ A: Nonrepudiation
 
 # Week 7:
 
+###### [Back to the top](#table-of-contents)
+
 ## Vocabulary
 
 - Digital certificate – a technology used to associate a **user’s identity** to a **public key** and that has been **“digitally signed” by a trusted third party**
@@ -1412,6 +1424,8 @@ A: Nonrepudiation
 ## Essential concepts
 
 # Week 8:
+
+###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
