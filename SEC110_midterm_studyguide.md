@@ -354,6 +354,124 @@ A: The cybersecurity expert checked with CISCP and also investigated the dark we
 
 ## Vocabulary
 
+Infrared
+
+Universal Serial Bus (USB) connectors
+
+Cellular telephony
+
+Bring your own device (BYOD)
+
+Corporate owned, personally enabled (COPE)
+
+Choose your own device (CYOD)
+
+Virtual desktop infrastructure (VDI)
+
+Corporate owned
+
+Geolocation
+
+Global positioning system (GPS) 
+
+Firmware over-the-air (OTA) updates
+
+GPS tagging
+
+USB On-the-Go (OTG)
+
+Malicious flash drive
+
+External media access
+
+Tethering
+
+Malicious USB cable
+
+Hotspots
+
+Jailbreaking
+
+Rooting
+
+Third-party app store
+
+Custom firmware
+
+Carrier unlocking
+
+Sideloading
+
+Multimedia messaging service (MMS) 
+
+Short message service (SMS)
+
+Rich communication services (RCS)
+
+Personal identification number (PIN)
+
+Full disk encryption
+
+Context-aware authentication
+
+Screen lock
+
+Containerization
+
+Storage segmentation
+
+Remote wipe
+
+Mobile device management (MDM)
+
+Push notification services
+
+Geofencing
+
+Content management
+
+Mobile application management (MAM)
+
+Mobile content management (MCM)
+
+Unified endpoint management (UEM)
+
+Embedded system
+
+Field-programmable gate array (FPGA)
+
+Arduino
+
+Raspberry pi
+
+System on a chip (SoC)
+
+Smart meters
+
+Real-time operating system (RTOS)
+
+Industrial control systems (ICSs)
+
+Supervisory control and data acquisition (SCADA)
+
+Heating, ventilation, and air conditioning (HVAC)
+
+Constraints
+
+Voice over IP (VoIP)
+
+Multifunctional printer (MFP)
+
+Internet of Things (IoT)
+
+Firmware OTA updates
+
+Industrial control systems (ICS)
+
+GPS tagging (geo-tagging)
+
+Hotspot
+
 ## Example questions
 
 ### Module 5 Blackboard Quiz
