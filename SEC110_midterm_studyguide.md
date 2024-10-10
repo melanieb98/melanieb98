@@ -1393,111 +1393,111 @@ A: Nonrepudiation
 
 ###### [Week 7](#week-7-1)
 
-- Digital certificate – a technology used to associate a **user’s identity** to a **public key** and that has been **“digitally signed” by a trusted third party**
+- **Digital certificate** – a technology used to associate a **user’s identity** to a **public key** and that has been **“digitally signed” by a trusted third party**
 
-- Certificate signing request (CSR) – A **user request for a digital certificate**
+- **Certificate signing request (CSR)** – A **user request for a digital certificate**
 
-- Registration authority – An entity that is responsible for **verifying the credentials** of the **applicant for digital certificate**
+- **Registration authority** – An entity that is responsible for **verifying the credentials** of the **applicant for digital certificate**
 
-- Online CA – A certificate authority that is **directly connected to a network**
+- **Online CA** – A certificate authority that is **directly connected to a network**
 
-- Intermediate certificate authority (CA) – An entity that **processes the CSR** and **verifies the authenticity of the user** on behalf of a certificate authority (CA)
+- **Intermediate certificate authority (CA)** – An entity that **processes the CSR** and **verifies the authenticity of the user** on behalf of a certificate authority (CA)
 
-- Certificate authority (CA) – The entity that is **responsible for digital certificates**
+- **Certificate authority (CA)** – The entity that is **responsible for digital certificates**
 
-- Offline CA – A certificate authority that is **NOT directly connected to a network**
+- **Offline CA** – A certificate authority that is **NOT directly connected to a network**
 
-- Certificate revocation list (CRL) – A **list of certificate serial numbers** that have been **revoked**
+- **Certificate revocation list (CRL)** – A **list of certificate serial numbers** that have been **revoked**
 
-- Online certificate status protocol (OCSP) – A **process** that performs a **real-time lookup** of a **certificate’s status**
+- **Online certificate status protocol (OCSP)** – A **process** that performs a **real-time lookup** of a **certificate’s status**
 
-- User digital certificate – The **endpoint** of the **certificate chain**
+- **User digital certificate** – The **endpoint** of the **certificate chain**
 
-- Stapling – A **process** for **verifying the status of a certificate** by **sending queries at regular intervals** to receive a **signed time-stamped response**
+- **Stapling** – A **process** for **verifying the status of a certificate** by **sending queries at regular intervals** to receive a **signed time-stamped response**
 
-- Self-signed – A **signed digital certificate** that **does NOT depend upon any higher-level authority** for authentication
+- **Self-signed** – A **signed digital certificate** that **does NOT depend upon any higher-level authority** for authentication
 
-- Root digital certificate – A certificate that is **created and verified by a CA**
+- **Root digital certificate** – A certificate that is **created and verified by a CA**
 
-- Certificate chaining – **Linking several certificates together** to establish **trust between all the certificates** involved
+- **Certificate chaining** – **Linking several certificates together** to establish **trust between all the certificates** involved
 
-- Pinning – **Hard-coding a digital certificate within a program** that is using the certificate
+- **Pinning** – **Hard-coding a digital certificate within a program** that is using the certificate
 
-- Domain validation digital certificate – certificate that verifies the **identity of the entity that has control over the domain name**
+- **Domain validation digital certificate** – certificate that verifies the **identity of the entity that has control over the domain name**
 
-- Machine/computer digital certificate - certificate used to verify the **identity of a device in a network transaction**
+- **Machine/computer digital certificate** - certificate used to verify the **identity of a device in a network transaction**
 
-- Extended validation (EV) certificate - certificate that **requires more extensive verification of the legitimacy** of the business than does a domain validation digital certificate
+- **Extended validation (EV) certificate** - certificate that **requires more extensive verification of the legitimacy** of the business than does a domain validation digital certificate
 
-- Subject alternative name (SAN) – Also known as a **Unified Communications Certificate (UCC)**, certificate **primarily used for Microsoft Exchange servers** or **unified communications**
+- **Subject alternative name (SAN)** – Also known as a **Unified Communications Certificate (UCC)**, certificate **primarily used for Microsoft Exchange servers** or **unified communications**
 
-- Wildcard digital certificate – Certificate used to **validate a main domain along with all subdomains**
+- **Wildcard digital certificate** – Certificate used to **validate a main domain along with all subdomains**
 
-- Common name (CN) – The name of the **device protected by the digital certificate**
+- **Common name (CN)** – The name of the **device protected by the digital certificate**
 
-- Code signing digital certificate – Certificate used by **software developers** to digitally sign a program to **prove that the software comes from the entity that signed it** and that **no unauthorized third party has altered it**
+- **Code signing digital certificate** – Certificate used by **software developers** to digitally sign a program to **prove that the software comes from the entity that signed it** and that **no unauthorized third party has altered it**
 
-- Email digital certificate – A certificate that allows a user to **digitally sign and encrypt mail messages**
+- **Email digital certificate** – A certificate that allows a user to **digitally sign and encrypt mail messages**
 
-- Certificate attributes – **Fields** in an **X.509** digital certificate that are used when **parties negotiate a secure connection**
+- **Certificate attributes** – **Fields** in an **X.509** digital certificate that are used when **parties negotiate a secure connection**
 
-- .cer – The file extension for an **X.509** certificate that is stored in a **binary file**
+- **.cer** – The file extension for an **X.509** certificate that is stored in a **binary file**
 
-- Distinguished encoding rules (DER) – An **X.509** encoding format
+- **Distinguished encoding rules (DER)** – An **X.509** encoding format
 
-- Canonical encoding rules (CER) – An **X.509** encoding format
+- **Canonical encoding rules (CER)** – An **X.509** encoding format
 
-- Privacy enhancement mail (PEM) – An **X.509** file format that uses **DER encoding** and can have **multiple certificates**
+- **Privacy enhancement mail (PEM)** – An **X.509** file format that uses **DER encoding** and can have **multiple certificates**
 
-- .P7B – The file extension for a **cryptographic message syntax standard** based on **PKSC#7** that defines a **generic syntax for defining digital signature and encryption**
+- **.P7B** – The file extension for a **cryptographic message syntax standard** based on **PKSC#7** that defines a **generic syntax for defining digital signature and encryption**
 
-- Public key infrastructure (PKI) – The underlying infrastructure for the **management of public keys** used in digital infrastructure
+- **Public key infrastructure (PKI)** – The underlying infrastructure for the **management of public keys** used in digital infrastructure
 
-- .P12 – the file extension for a **personal information exchange syntax standard** based on **PKCS#12** that defines the file format for **storing and transporting a user’s private keys with a public key certificate**
+- **.P12** – the file extension for a **personal information exchange syntax standard** based on **PKCS#12** that defines the file format for **storing and transporting a user’s private keys with a public key certificate**
 
-- Personal information exchange (PFX) – An **X.509** file format that is the **preferred file format** for **creating certificates to authenticate applications or websites**
+- **Personal information exchange (PFX)** – An **X.509** file format that is the **preferred file format** for **creating certificates to authenticate applications or websites**
 
-- Key management – the administration by **PKI** of all the elements involved in **digital certificates** for **digital certificate management of public keys and digital certificates**
+- **Key management** – the administration by **PKI** of all the elements involved in **digital certificates** for **digital certificate management of public keys and digital certificates**
 
-- Trust model – the type of **trust relationship** that can exist **between individuals or entities**
+- **Trust model** – the type of **trust relationship** that can exist **between individuals or entities**
 
-- Key escrow – A process in which **keys are managed by a third party**, such as a trusted CA
+- **Key escrow** – A process in which **keys are managed by a third party**, such as a trusted CA
 
-- Secure sockets layer (SSL) – an **early** and widespread **cryptographic transport algorithm** that is **now considered obsolete**
+- **Secure sockets layer (SSL)** – an **early** and widespread **cryptographic transport algorithm** that is **now considered obsolete**
 
-- Expiration – the **date** of a digital certificate when it **ceases to function**
+- **Expiration** – the **date** of a digital certificate when it **ceases to function**
 
-- SSL stripping – An **attack** that **manipulates SSL functions** by **intercepting an HTTP connection**
+- **SSL stripping** – An **attack** that **manipulates SSL functions** by **intercepting an HTTP connection**
 
-- Secure shell (SSH) – An **encrypted alternative** to the **Telnet** protocol that is **used to access remote computers**
+- **Secure shell (SSH)** – An **encrypted alternative** to the **Telnet** protocol that is **used to access remote computers**
 
-- Cipher suite – A named combination of the **encryption, authentication, and message authentication code (MAC)** algorithms that are **used with TLS and SSL**
+- **Cipher suite** – A named combination of the **encryption, authentication, and message authentication code (MAC)** algorithms that are **used with TLS and SSL**
 
-- Transport layer security (TLS) – A **widespread cryptographic transport algorithm** that **replaces SSL**
+- **Transport layer security (TLS)** – A **widespread cryptographic transport algorithm** that **replaces SSL**
 
-- Hypertext transport protocol secure (HTTPS) – **HTTP** sent over **TLS** (Transport Layer Security) or **SSL** (Secure Sockets Layer)
+- **Hypertext transport protocol secure (HTTPS)** – **HTTP** sent over **TLS** (Transport Layer Security) or **SSL** (Secure Sockets Layer)
 
-- Secure/multipurpose internet mail extensions (S/MIME) – A **protocol** for **securing email messages**
+- **Secure/multipurpose internet mail extensions (S/MIME)** – A **protocol** for **securing email messages**
 
-- Secure real-time transport protocol (SRTP) – A protocol for providing **protection for voice over IP (VoIP)** connections
+- **Secure real-time transport protocol (SRTP)** – A protocol for providing **protection for voice over IP (VoIP)** connections
 
-- Transport mode – An **IPsec mode** that encrypts **only the data portion** (payload) of each packet yet **leaves the header unencrypted**
+- **Transport mode** – An **IPsec mode** that encrypts **only the data portion** (payload) of each packet yet **leaves the header unencrypted**
 
-- Encapsulating security payload (ESP) – An **IPsec protocol** that **encrypts packets**
+- **Encapsulating security payload (ESP)** – An **IPsec protocol** that **encrypts packets**
 
-- Internet protocol security (IPsec) – A **protocol suite** for securing **Internet Protocol (IP) communications**
+- **Internet protocol security (IPsec)** – A **protocol suite** for securing **Internet Protocol (IP) communications**
 
-- Authentication header (AH) – An **IPsec protocol** that **authenticates that packets received were sent from the source**
+- **Authentication header (AH)** – An **IPsec protocol** that **authenticates that packets received were sent from the source**
 
-- Tunnel mode – An **IPsec mode** that **encrypts both the header and the data portion**
+- **Tunnel mode** – An **IPsec mode** that **encrypts both the header and the data portion**
 
-- Authentication mode of operation – An **information service** that **provides credentialing** by a **block cipher mode of operation**
+- **Authentication mode of operation** – An **information service** that **provides credentialing** by a **block cipher mode of operation**
 
-- Block cipher mode of operation – How block ciphers **handle blocks of ciphertext** by using a **symmetric key block cipher algorithm** to provide an information service
+- **Block cipher mode of operation** – How block ciphers **handle blocks of ciphertext** by using a **symmetric key block cipher algorithm** to provide an information service
 
-- Unauthenticated mode of operation – An **information service** that provides a **noncredentializing service** such as confidentiality by a **block cipher** mode of operation
+- **Unauthenticated mode of operation** – An **information service** that provides a **noncredentializing service** such as confidentiality by a **block cipher** mode of operation
 
-- Counter (CTR) – A **block cipher** mode of operation that **both the message sender and receiver access a counter**, which **computes a new value each time** a ciphertext block is exchanged
+- **Counter (CTR)** – A **block cipher** mode of operation that **both the message sender and receiver access a counter**, which **computes a new value each time** a ciphertext block is exchanged
 
 ## Example questions
 
