@@ -125,7 +125,7 @@ A:
 Q: John is a project manager with an IT firm, and his current project of developing an ERP application is in the development stage. Currently, the application is not yet mature or stable enough to be placed in a test environment. Which of the following secure coding review techniques is applicable for his project?  
 A: 
 
-Q: Which of the following uses vulnerable applications to modify Microsoft registry keys?
+Q: Which of the following uses vulnerable applications to modify Microsoft registry keys?  
 A: System tampering
 
 Q: Why was the BIOS framework relocated to flash memory from a complementary metal-oxide-semiconductor (CMOS) in later development?  
