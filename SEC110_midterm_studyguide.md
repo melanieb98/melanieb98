@@ -1,4 +1,39 @@
-# Week 1:
+# Table of Contents:
+## [Week 1](#w1)
+### Vocab
+### Questions
+### Concepts
+## Week 2
+### Vocab
+### Questions
+### Concepts
+## Week 3
+### Vocab
+### Questions
+### Concepts
+## Week 4
+### Vocab
+### Questions
+### Concepts
+## Week 5
+### Vocab
+### Questions
+### Concepts
+## Week 6
+### Vocab
+### Questions
+### Concepts
+## Week 7
+### Vocab
+### Questions
+### Concepts
+## [Week 8](#w8)
+### Vocab
+### Questions
+### Concepts
+
+
+# <a name="w1">Week 1:</a>
 ## Vocabulary
 
 ## Example questions
@@ -96,10 +131,10 @@ A: BAN
 Q: In which of the following mobile device connectivity methods are transmitters connected through a mobile telecommunication switching office (MTSO) that controls all of the transmitter s in the cellular network and serves as the link between the cellular network and the wired telephone world?
 A: Cellular
 
-	##Essential concepts
+## Essential concepts
 
-Week 6:
-	Vocabulary
+# Week 6:
+## Vocabulary
 Steganography
 Decryption
 Cryptography
@@ -144,93 +179,133 @@ Asymmetric cryptographic algorithm
 Ephemeral key
 Symmetric cryptographic algorithm
 
-	Example questions
-	MindTap quiz/HW
+## Example questions
+### MindTap quiz/HW
 Q: Which of the following hides the existence of information?
 A: Steganography
+
 Q: Cryptography can prevent an individual from fraudulently reneging on an action. What is this known as?
 A: Nonrepudiation
+
 Q: Brielle is researching substitution ciphers. She came across a cipher in which the entire alphabet was rotated 13 steps. What type of cipher is this?
 A: ROT13
+
 Q: Which of the following is FALSE about “security through obscurity”?
 A: It can only provide limited security
+
 Q: What is low latency?
 A: The time between when a bye is input into a cryptographic cipher and when the output is obtained.
+
 Q: What are public key systems that generate different random public keys for each session?
 A: Perfect forward secrecy
+
 Q: What is data called that is to be encrypted by inputting it into a cryptographic algorithm?
 A: Plaintext
+
 Q: Which of these is NOT a basic security protection for information that cryptography can provide?
 A: Risk
+
 Q: Cicero is researching hash algorithms. Which algorithm would produce the longest and most secure digest?
 A: SHA3-512
+
 Q: Which of the following is NOT a symmetric cryptographic algorithm?
 A: SHA
+
 Q: Which of the following is not to be decrypted but is only used for comparison purposes?
 A: Digest
+
 Q: Which of these is NOT a characteristic of a secure hash algorithm?
 A: Collisions should occur no more than 15 percent of the time
+
 Q: Deo has been asked to explain RSA to his colleague. After his explanation, Deo is asked what, if any weaknesses RSA has. How would Deo respond?
 A: As computers have become more powerful, the ability to compute factoring has increased
+
 Q:Which of these is the strongest symmetric cryptographic algorithm?
 A: Advanced encryption standard
+
 Q: If Bob wants to send a secure message to Alice using an asymmetric cryptographic algorithm, which key does he use to encrypt the message?
 A: Alice’s public key
+
 Q: Egor wanted to use a digital signature. Which of the following benefits will the digital signature NOT provide?
 A: Verify the receiver
+
 Q: Basil was reading about a new attack that forces the system to abandon a higher cryptographic security mode of operation and instead fall back to an older and less secure mode. What type of attack is this?
 A: Downgrade attack
+
 Q: What is a collision?
 A: Two files produce the same digest
+
 Q: Which of the following is NOT a characteristic of the trusted platform module (TPM)?
 A: It includes a pseudorandom number generator (PRNG)
+
 Q: Which of these provides cryptographic services and is external to the device?
 A: Hardware security module (HSM)
-	Module 6 Blackboard Quiz
+
+### Module 6 Blackboard Quiz
 Q: Which of the following is used to create a sequence of numbers whose output is close to a random number?
 A: PRNG
+
 Q: Which cryptographic method should Susanne use to ensure that a document can be encrypted with a key and decrypted with a different key?
 A: Asymmetric
+
 Q: Harry works at an automobile parts manufacturer. They sell parts to retailers and deposit the proceeds in their bank. Using these funds, Harry pays the suppliers and employees. The Accounts Department maintains a ledger of all transactions of materials bought and sold. Similarly, the quality department and operations department also maintain a ledger of all transactions. Over the years, this process has become quite cumbersome, as growing data create confusion. Harry is looking at simplifying the process and has contacted you for a  solution. Using which technology can this process be simplified and confusions avoided?
 A: Blockchain
+
 Q: Which unit is used by quantum computers, making them faster and more efficient than normal computers?
 A: Qubit
+
 Q: Which of the following uses hardware encryption technology to secure stored data and ensures the inseparability of SEDs among vendors?
 A: Opal
+
 Q: Spectrum technologies uses SHA 256 to share confidential information. The enterprise reported a breach of confidential data by a threat actor. You are asked to verify the cause of the attack that occurred despite implementing secure cryptography in communication. Which type of attack should you consider first, and why?
 A: Misconfiguration attack the company should have configured a higher security hash algorithm rather than using the less-secure SHA 256.
+
 Q: Wilson has requested your help to suggest an encryption method that will provide the highest security against attacks. Which encryption process should you suggest?
 A: AES
+
 Q: Which attack sees an attacker attempt to determine the hash functions input strings that produce the same hash result?
 A: 
+
 Q: Kainat is asked to suggest a cipher in which the entire alphabet is rotated (as in A=N, B=O), making it difficult to identify. Which cipher should she suggest?
 A: ROT13
+
 Q: A new e-commerce startup with global operations is looking for a method to manage its supply-chain data for production. Instead of using bar codes, scanners, paper forms, and individual databases, making the system difficult to use, which method should be used to quickly track shipments?
 A: Blockchain
+
 Q: John needs to add an algorithm for his company communication process, in which encryption uses two keys. One is the public key, and the other one is a private key. Which algorithm will be suitable to achieve this?
 A: Asymmetric cryptography
+
 Q: Which of the following is a state of data, where data is transmitted across a network?
 A: Data in transit
+
 Q: Which encryption method in BitLocker prevents attackers from accessing data by booting from another OS or placing the hard drive in another computer?
 A: Full disk encryption
+
 Q: Which function in cryptography takes a string of any length as input and returns a string of any requested variable length?
 A: Sponge
+
 Q: Sigma solutions use hash algorithms in the communications between departments while transferring confidential files. A human resource employee informed you that one of the employees’ salary statements sent from her end looks tampered with and requested your help. Which of the following tasks would enable you to identify whether the file is tampered with or not , and how will you make the determination?
 A: Check the digest of the file with the original digest. If the values are different, it can be confirmed that the file has been tampered with.
+
 Q: Blockchain relies on which cryptographic algorithm to make it computationally infeasible to try to replace a block or insert a new block of information without the approval of all entities involved?
 A: 
+
 Q: Which of the following devices can perform cryptographic erase? 
 A: SED
+
 Q: Alex is working for alpha technology as a system administrator. The enterprise’s sales team uses multiple external drives=, often containing confidential data, that they carry between their offices and their clients’ offices. What should Alex do this ensure that data is secure if it is stolen or lost, and why?
 A: Use encrypted USBs in the enterprise because they automatically encrypt the information and give Alex remote access to the drive to monitor and disable the user
+
 Q: ABC enterprises plans to upgrade its internal confidential communication channel for the senior management team, which is geographically spread out, to enhance communication speed and security. They have decided to use cryptography to achieve this but can’t decide on which model. The CEO has come to you for your suggestion on whether to use RSA or ECC
 A: ECC, as it uses sloping curves to generate keys. This makes it very secure for smaller key sizes making it secure and the communication exchange extremely fast.
+
 Q: A manager working in ABC consulting shared a list of employees from his team who were eligible for an extra week off. Later, he claimed that he has never shared this list. Which principle or functionality of a secured communication can be used to substantiate or verify the manager’s claim?
 A: Nonrepudiation
-	Essential concepts
 
-Week 7:
-	Vocabulary
+## Essential concepts
+
+# Week 7:
+## Vocabulary
 Digital certificate
 Certificate signing request (CSR)
 Registration authority
@@ -284,12 +359,12 @@ Authentication mode of operation
 Block cipher mode of operation
 Unauthenticated mode of operation
 Counter (CTR)
-	Example questions
+## Example questions
 
-	Essential concepts
+## Essential concepts
 
-Week 8:
-	Vocabulary
+# <a name="w8">Week 8:</a>
+## Vocabulary
 Session replay
 Man-in-the-middle (MITM)
 MAC cloning attack
@@ -374,7 +449,7 @@ Vault
 Faraday cage
 Cable lock
 Macro
-	Example questions
+## Example questions
 
-	Essential concepts
+## Essential concepts
 
