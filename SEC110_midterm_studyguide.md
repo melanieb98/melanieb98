@@ -78,6 +78,8 @@
 
 ## Vocabulary
 
+###### [Week 1](#week-1-1)
+
 Threat actor
 
 Insider threat
@@ -250,6 +252,8 @@ Impersonation (also called identity fraud)
 
 ## Example questions
 
+###### [Week 1](#week-1-1)
+
 ### Module 1 Blackboard Quiz
 
 Q: Which of the following is a social engineering method that attempts to influence the subject before the event occurs?  
@@ -315,6 +319,8 @@ A: Spimming
 
 ## Essential concepts
 
+###### [Week 1](#week-1-1)
+
 # Week 2:
 
 #### [Vocab](#vocabulary-1)
@@ -326,6 +332,8 @@ A: Spimming
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 2](#week-2-1)
 
 Red team
 
@@ -465,6 +473,8 @@ Unmanned aerial vehicle (UAV)
 
 ## Example questions
 
+###### [Week 2](#week-2-1)
+
 ### Module 2 Blackboard Quiz
 
 Q: Which of the following technologies can be used together for data management in security infrastructure and collecting and analyzing data.  
@@ -529,6 +539,8 @@ A: Black box
 
 ## Essential concepts
 
+###### [Week 2](#week-2-1)
+
 # Week 3:
 
 #### [Vocab](#vocabulary-2)
@@ -540,6 +552,8 @@ A: Black box
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 3](#week-3-1)
 
 Malware
 
@@ -629,6 +643,8 @@ Adversarial artificial intelligence
 
 ## Example questions
 
+###### [Week 3](#week-3-1)
+
 ### Module 3 Blackboard Quiz
 
 Q: Natasha, a network security administrator for an online travel portal, noticed that her website was the victim of an SQL injection. She decided to study the SQL queries to find which one made this vulnerability in the database, and she noticed the following SQL code piece executed on the database: `’whatever’ AND email IS NULL;` What has been accessed by the attacker running this SQL injection?  
@@ -696,6 +712,8 @@ A: Bot herder
 
 ## Essential concepts
 
+###### [Week 3](#week-3-1)
+
 # Week 4:
 
 #### [Vocab](#vocabulary-3)
@@ -707,6 +725,8 @@ A: Bot herder
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 4](#week-4-1)
 
 Indicator of compromise (IOC)
 
@@ -852,6 +872,8 @@ Fuzzing
 
 ## Example questions
 
+###### [Week 4](#week-4-1)
+
 ### Module 4 Blackboard Quiz
 
 Q: In an application development model, which of the following uses a sequential development process?  
@@ -916,6 +938,8 @@ A: The cybersecurity expert checked with CISCP and also investigated the dark we
 
 ## Essential concepts
 
+###### [Week 4](#week-4-1)
+
 # Week 5:
 
 #### [Vocab](#vocabulary-4)
@@ -927,6 +951,8 @@ A: The cybersecurity expert checked with CISCP and also investigated the dark we
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 5](#week-5-1)
 
 Infrared
 
@@ -1048,6 +1074,8 @@ Hotspot
 
 ## Example questions
 
+###### [Week 5](#week-5-1)
+
 ### Module 5 Blackboard Quiz
 
 Q: Anola is the security administrator in XYZ consulting. She is asked to suggest a deployment method where the data is stored in a completely secure, centralized server and accessed by authorized employees using their own devices. Which deployment should Anola choose?  
@@ -1117,6 +1145,8 @@ A: Cellular
 
 ## Essential concepts
 
+###### [Week 5](#week-5-1)
+
 # Week 6:
 
 #### [Vocab](#vocabulary-5)
@@ -1128,6 +1158,8 @@ A: Cellular
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 6](#week-6-1)
 
 Steganography
 
@@ -1216,6 +1248,8 @@ Ephemeral key
 Symmetric cryptographic algorithm
 
 ## Example questions
+
+###### [Week 6](#week-6-1)
 
 ### MindTap quiz/HW
 
@@ -1343,6 +1377,8 @@ A: Nonrepudiation
 
 ## Essential concepts
 
+###### [Week 6](#week-6-1)
+
 # Week 7:
 
 #### [Vocab](#vocabulary-6)
@@ -1354,6 +1390,8 @@ A: Nonrepudiation
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 7](#week-7-1)
 
 - Digital certificate – a technology used to associate a **user’s identity** to a **public key** and that has been **“digitally signed” by a trusted third party**
 
@@ -1463,7 +1501,11 @@ A: Nonrepudiation
 
 ## Example questions
 
+###### [Week 7](#week-7-1)
+
 ## Essential concepts
+
+###### [Week 7](#week-7-1)
 
 # Week 8:
 
@@ -1476,6 +1518,8 @@ A: Nonrepudiation
 ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
+
+###### [Week 8](#week-8-1)
 
 Session replay
 
@@ -1647,5 +1691,9 @@ Macro
 
 ## Example questions
 
+###### [Week 8](#week-8-1)
+
 ## Essential concepts
+
+###### [Week 8](#week-8-1)
 
