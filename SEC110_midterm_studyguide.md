@@ -211,6 +211,92 @@ A: Black box
 
 ## Vocabulary
 
+Malware
+
+Ransomware
+
+Cryptomalware
+
+Fileless virus
+
+Command and control (C&C)
+
+Bot
+
+Worm
+
+Potentially unwanted programs (PUPs)
+
+Trojan
+
+Spyware
+
+Keylogger
+
+Remote access trojan (RAT)
+
+Backdoor
+
+Logic bomb
+
+Cross-site scripting (XSS)
+
+Rootkit
+
+Injections
+
+Extensible markup language (XML)
+
+XML injection
+
+SQL injection
+
+Structured query language
+
+Cross-site request forgery (CSRF)
+
+Client-side request forgery
+
+Resource exhaustion attacks
+
+Memory leak
+
+Server-side request forgery (SSRF)
+
+Replay
+
+Buffer overflow attack
+
+Integer overflow attack
+
+Error handling
+
+Improper input handling
+
+Pointer/object dereference
+
+Race condition
+
+Time of check/time of use
+
+Refactoring
+
+Application program interface (API) attack
+
+Device driver manipulation
+
+Shimming
+
+DLL injection
+
+Remote access trojan
+
+Tainted training data for machine learning
+
+Security of the ML algorithms
+
+Adversarial artificial intelligence
+
 ## Example questions
 
 ### Module 3 Blackboard Quiz
