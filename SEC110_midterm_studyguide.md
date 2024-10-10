@@ -88,6 +88,71 @@
 
 ## Example questions
 
+### Module 3 Blackboard Quiz
+
+Q: Natasha, a network security administrator for an online travel portal, noticed that her website was the victim of an SQL injection. She decided to study the SQL queries to find which one made this vulnerability in the database, and she noticed the following SQL code piece executed on the database: `’whatever’ AND email IS NULL;` What has been accessed by the attacker running this SQL injection?  
+A: 
+
+Q: Which of the following is a feature of a fileless virus?  
+A: Fileless viruses are persistent
+
+Q: Which of the following describes the action of an SQL injection into a database server?  
+A: The SQL injection inserts specially created structured query language statements to manipulate the database server, giving control of the database to the attacker, who can then manipulate the database.
+
+Q: Which of the following is a form of malware attack that uses specialized communication protocols?  
+A: 
+
+Q: What is the name of the process where a website validates user input before the application uses the input?  
+A: Sanitizing
+
+Q:  Ian, a systems administrator, was checking systems on Monday morning when he noticed several alarms on his screen. He found many of the normal settings in his computer and programs changed, but he was sure no one had physically entered his room since Friday. If Ian did not make these changes, which of the events below is the most likely reason for the anomalies?  
+A: A backdoor was installed previously and utilized over the weekend to access the computer and the programs
+
+Q: A few computers at a high-security software firm location have been compromised. The threat actor took user videos, confidential information like bank account IDs and passwords, email IDs and passwords, and computer screenshots. These confidential data have been shared every three hours from the computers to the threat actor. Which of the following is correct, based on the evaluation of the above observation?  
+A: This is a software keylogger attack, as screenshots, video captures, and keystrokes have been routinely monitored and periodically shared.
+
+Q: Which type of malware can hide its agenda inside other processes, making it undetectable, and what is it usually used for?  
+A: 
+
+Q: Which of the following describes a memory leak attack?  
+A: In a memory leak attack, the threat actor takes advantage of the programming error of not freeing the memory after executing a process, taking advantage of the device’s low memory  conditions to attack.
+
+Q: Which of the following is a subset of artificial intelligence?  
+A: Machine learning
+
+Q: William downloaded some free software to help him with photo editing. A few days later, William noticed several personal photographs were modified and posted to various social media pages with obscene comments. He also noticed that there were videos of him that were morphed and circulated on adult websites. The videos were obviously taken using his webcam. What should William do to fix his problem and prevent it from happening again in the future?  
+A: William should run an antimalware program and scan for all known RATs, then quarantine and remove the infected file(s). To prevent this in the future, he should only download software from trusted websites.
+
+Q: Which of the following statements correctly describes the disadvantage of a hardware-based keylogger?  
+A: A hardware-based keylogger must be physically installed and removed without detection
+
+Q: Kate decides to download an extension to her favorite browser to quickly store links on her spreadsheet software. While downloading the software, she ignores the opt-out check box that allows the extension to download a search toolbar. What has occurred here?  
+A: Kate has installed a potentially unwanted program (PUP)
+
+Q: The files in James’s computer were found spreading within the device without any human action. As an engineer, you were requested to identify the problem and help James resolve it. During file code inspection, you noticed that certain types of files in the computer have similar codes. You found that the problem is coming from a set of codes that are not part of the actual files, appended at the bottom of the file . You also noticed a transfer control code written at the beginning of the files giving control to the code at the bottom of the file. Which type of infection is this a characteristic of?  
+A: This is a typical characteristic of an endpoint device infected with a file-based virus attack.
+
+Q: A web application with an SQL server database is found to be compromised by an attacker. On examination, the email IDs of the database have been found modified. This was due to improper validation in the input fields exploited by the attacker. What is the probably attack in the above scenario?  
+A: SQL injection 
+
+Q: Smitha, an employee working in the accounts department, reported to the information security officer that she could not access her computer. James, the security officer, noticed the following on Smitha’s system:  
+On booting the computer, the following message was flashing o the computer screen with the IRS logo  
+"This computer is locked by the Internal Revenue Service. It has come to our attention that you are transferring funds to other agencies using this computer without compliance with the local income tax laws. As per section 22 of the U.S. Income Tax Act, the transmission of funds without applicable taxes is prohibited. Your IP address is identified in this fraudulent transaction and is locked to prevent further unlawful activities. This offense attracts a penalty of $400.00 for the first offense. You are hereby given 16 hours to resolve this issue, failing which you shall be prosecuted to the full extent of the law. You may make a secure payment by clicking on the following link. If you face any issues, you may reach out to us at compliance@irs.gov.us."  
+The message will not close, nor is there access to applications or files on the computer; however, James can open shared files and folders on Smitha’s computer through the network. What is your inference about the problem faced by Smitha on her computer?  
+A: Smitha’s computer is compromised by ransomware
+
+Q: What is another term commonly used to define cross-site request forgery (CSRF):  
+A: Client-side request forgery
+
+Q: Terrence, an executive VP of IT at sigma bank, noticed that yesterday, there was a major attack on several thousands of bank employees’ computers located at geographically different locations where files and data from the computers got deleted. It was also noticed that several confidential files containing customer data were deleted from the bank’s server in multiple locations, and the CEO’s emails were deleted from the server. Since the bank was compliant with cybersecurity measures, Terrence suspects an internal hand in this activity. While going through the records of all employees working in the IT security of the bank, both past and present, he notices that there is an employee, Chris, who has enough experience to launch this attack, was unhappy with his annual review last year, and had left the bank three months ago. If Terrence were able to single Chris out as the one responsible for the attack, what kind of an attack would this be?  
+A: Logic-bomb
+
+Q: Which of the following is an example of a request forgery malware?  
+A: CSRF
+
+Q: Japan’s cybercrime control center noticed that around 200,000 Tokyo computers are infected by bots, and all these bots are remotely controlled by a single attacker. What is this attacker referred to as?  
+A: Bot herder
+
 ## Essential concepts
 
 # Week 4:
