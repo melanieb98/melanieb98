@@ -70,6 +70,176 @@
 
 ## Vocabulary
 
+Threat actor
+
+Insider threat
+
+Level of capability/sophistication
+
+Hacktivists
+
+Advanced persistent threat (APT)
+
+Hacker
+
+Gray hat hackers
+
+Script kiddies
+
+Black hat hackers
+
+Attributes
+
+White hat hackers
+
+State actors
+
+Intent/motivation
+
+Resources and funding
+
+Internal 
+
+External
+
+On-premises platform
+
+Legacy platform
+
+Criminal syndicates
+
+Weak configurations
+
+Cloud platform
+
+Competitors
+
+Default settings
+
+Shadow IT
+
+Open permissions
+
+Unsecured root accounts
+
+Open ports and services
+
+Unsecure protocols
+
+Impersonation
+
+Patch
+
+Attack vector
+
+Zero day
+
+Outsourced code development
+
+Third parties
+
+Hybrid warfare influence campaign
+
+Supply chain
+
+Social engineering
+
+Vendor management
+
+Familiarity
+
+Data storage
+
+Intimidation
+
+Errors
+
+System integration
+
+Weak encryption
+
+Lack of vendor support
+
+Urgency
+
+Trust
+
+Firmware
+
+Authority
+
+Direct access
+
+Prepending
+
+Social media influence campaign
+
+Scarcity
+
+Consensus
+
+Eliciting information
+
+Influence campaigns
+
+Pretexting
+
+Identity fraud
+
+Reconnaissance
+
+Invoice scam
+
+Phishing
+
+Credential harvesting
+
+Spear phishing
+
+Whaling
+
+Vishing
+
+Pharming
+
+Typo squatting
+
+Smishing
+
+Spam
+
+Hoax
+
+Spim
+
+Watering hole attack
+
+Tailgating
+
+Shoulder surfing
+
+Dumpster diving
+
+Data exfiltration
+
+Data loss
+
+Data breach
+
+Availability loss
+
+Identity theft
+
+Financial loss
+
+Reputation
+
+Cloud platforms
+
+Identity fraud (also called impersonation)
+
+Impersonation (also called identity fraud)
+
 ## Example questions
 
 ### Module 1 Blackboard Quiz
