@@ -72,6 +72,69 @@
 
 ## Example questions
 
+### Module 1 Blackboard Quiz
+
+Q: Which of the following is a social engineering method that attempts to influence the subject before the event occurs?  
+A: Prepending
+
+Q: Your company recently purchased routers with new and updated features and deployed them in the highly secure enterprise network without changing the default settings. A few days later, the enterprise network suffered a data breach, and you are assigned to prepare a report on the data breach. Which of the following vulnerabilities should you identify as the source of the breach?  
+A: Configuration vulnerability.
+
+Q: Threat actors focused on financial gain often attack which of the following main target categories?  
+A: Individual users
+
+Q: Which of the following is an attack vector used by threat actors to penetrate a system?  
+A: Email
+
+Q: You work for an enterprise that provides various cybersecurity services. You are assigned to examine an enterprise’s network and suggest security measures modifications, if necessary. On examining the network, you find that the enterprise hosts most of its computing resources on a cloud platform and few resources on-premises, and both seem to have secure settings implemented. You also find that the enterprise computers use the windows XP operating system. Which of the following vulnerabilities should you insist on fixing first?  
+A: Platform vulnerability
+
+Q: Which issue can arise from security updates and patches?  
+A: Difficulty patching firmware
+
+Q: In cybersecurity, a threat actor is an individual or an entity responsible for cyber incidents against the technical equipment of enterprises and users. How should you differentiate an attack by a script kiddie from that of a gray hat hacker?  
+A: Script kiddies use automated attack software created by other hackers for personal gain, whereas gray hat hackers create their own attack software to showcase vulnerabilities present in a system to the world. 
+
+Q: Which of the following is a configuration vulnerability?  
+A: Weak encryption
+
+Q: A federal appeals court recently made a judgement that caused significant public outrage. Soon after the ruling, the court’s website was hacked, and the content was replaced with the text “equal justice for all.” Which of the following type of threat actors attacked the court’s site?  
+A: Hacktivists 
+
+Q: Zero-day vulnerabilities and configuration vulnerabilities can heavily impact a system if exploited. How should you differentiate between a zero day vulnerability and a configuration vulnerability?  
+A: A zero-day vulnerability is an unknown vulnerability in released software that is found and exploited by a threat actor, whereas a configuration vulnerability is caused by improper settings in hardware or software. 
+
+Q: In an interview, the interviewer introduced the following scenario:  
+An enterprise is hosting all its computing resources on a cloud platform, and you need to identify which vulnerability is most likely to occur. Which of the following should you choose?  
+A: 
+
+Q: What is a variation of a common social engineering attack targeting a specific user?  
+A: Spear phishing
+
+Q: Which type of threat actor would benefit the most from accessing you enterprise’s new machine learning algorithm research and development program?  
+A: competitors
+
+Q: Your enterprise experienced several technical issues over the last few days. There were multiple instances of passwords needing to be changed and other issues causing downtime. Management has started receiving voicemails regarding fraudulent activities on their accounts. While the voicemails sound authentic, the help desk concludes that they are fake. What type of malicious activity will this be considered?  
+A: Vishing
+
+Q: Which attack embeds malware-distributing links in instant messages?  
+A: Spim 
+
+Q: Hacktivists and state actors are huge threats to government systems. What is the main difference between hacktivists and state actors?  
+A: Hacktivists misuse a computer system or network for socially or politically motivated reasons, whereas state actors are covertly sponsored by a government to attack its foes.
+
+Q: Which threat actors sell their knowledge to other attackers or governments?  
+A: Brokers
+
+Q: Which threat actors violate computer security for personal gain?  
+A: Black hat hackers
+
+Q: Which of the following types of platforms is known for its vulnerabilities due to age?  
+A: Legacy platform
+
+Q: Over the last few days, several employees in your enterprise reported seeing strange messages containing links in their company’s IM account. Even though no one has clicked on the messages, they are spreading throughout the network. Which type of malicious activity is this?  
+A: Spimming
+
 ## Essential concepts
 
 # Week 2:
