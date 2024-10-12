@@ -365,153 +365,153 @@ o	Cloud
 
 # Week 2:
 
-#### [Vocab](#vocabulary-1)
+- #### [Vocab](#vocabulary-1)
 
-#### [Questions](#example-questions-1)
+- #### [Questions](#example-questions-1)
 
-#### [Concepts](#essential-concepts-1)
+- #### [Concepts](#essential-concepts-1)
 
-###### [Back to the top](#table-of-contents)
+- ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
 ###### [Week 2](#week-2-1)
 
-Red team
+- Red team
 
-Penetration testing
+- Penetration testing
 
-White team
+- White team
 
-Purple team
+- Purple team
 
-Blue team
+- Blue team
 
-Bug bounty
+- Bug bounty
 
-Gray box
+- Gray box
 
-Black box
+- Black box
 
-White box
+- White box
 
-Rules of engagement
+- Rules of engagement
 
-Cleanup
+- Cleanup
 
-Footprinting
+- Footprinting
 
-War driving
+- War driving
 
-Persistence
+- Persistence
 
-War flying
+- War flying
 
-Drones
+- Drones
 
-Passive reconnaissance
+- Passive reconnaissance
 
-Unmanned aerial vehicles (UAVs)
+- Unmanned aerial vehicles (UAVs)
 
-Open source intelligence (OSINT)
+- Open source intelligence (OSINT)
 
-Privilege escalation
+- Privilege escalation
 
-Lateral movement
+- Lateral movement
 
-Pivot
+- Pivot
 
-Vulnerability scan
+- Vulnerability scan
 
-Non-credentialed scan
+- Non-credentialed scan
 
-Credentialed scan
+- Credentialed scan
 
-Intrusive scan
+- Intrusive scan
 
-Configuration review
+- Configuration review
 
-Nonintrusive scan
+- Nonintrusive scan
 
-Log
+- Log
 
-False negative
+- False negative
 
-Common vulnerabilities and exposures (CVE)
+- Common vulnerabilities and exposures (CVE)
 
-Common vulnerability scoring system (CVSS)
+- Common vulnerability scoring system (CVSS)
 
-False positive
+- False positive
 
-Log reviews
+- Log reviews
 
-User behavior analysis
+- User behavior analysis
 
-Sentiment analysis
+- Sentiment analysis
 
-Security information and event management (SIEM)
+- Security information and event management (SIEM)
 
-Security orchestration, automation, and response (SOAR)
+- Security orchestration, automation, and response (SOAR)
 
-Maneuvering
+- Maneuvering
 
-Threat feeds
+- Threat feeds
 
-Fustion center
+- Fustion center
 
-Threat hunting
+- Threat hunting
 
-Framework
+- Framework
 
-ISO 27002
+- ISO 27002
 
-NIST ridsk management framework (RMF)
+- NIST ridsk management framework (RMF)
 
-ISO 27001
+- ISO 27001
 
-NIST cybersecurity framework (CSF)
+- NIST cybersecurity framework (CSF)
 
-ISO 27701
+- ISO 27701
 
-ISO 31000
+- ISO 31000
 
-SSAE SOC 2 Type II
+- SSAE SOC 2 Type II
 
-SSAE SOC 2 Type III
+- SSAE SOC 2 Type III
 
-Center for internet security (CIS)
+- Center for internet security (CIS)
 
-Reference architecture
+- Reference architecture
 
-Cloud controls matrix
+- Cloud controls matrix
 
-Cloud security alliance (CSA)
+- Cloud security alliance (CSA)
 
-Regulations
+- Regulations
 
-Payment card industry data security standard (PCI DSS)
+- Payment card industry data security standard (PCI DSS)
 
-Benchmark/secure configuration guides
+- Benchmark/secure configuration guides
 
-European union general data protection directive (GDPR)
+- European union general data protection directive (GDPR)
 
-Standard
+- Standard
 
-Platform/vendor-specific guides
+- Platform/vendor-specific guides
 
-Adversary tactics, techniques, and procedures (TTP)
+- Adversary tactics, techniques, and procedures (TTP)
 
-Requests for comments (RFCs)
+- Requests for comments (RFCs)
 
-Vulnerability feeds
+- Vulnerability feeds
 
-Security orchestration, automation and response (SOAR)
+- Security orchestration, automation and response (SOAR)
 
-Request for comments (RFC)
+- Request for comments (RFC)
 
-Drone
+- Drone
 
-Unmanned aerial vehicle (UAV)
+- Unmanned aerial vehicle (UAV)
 
 ## Example questions
 
@@ -616,103 +616,103 @@ Module Objectives
 
 # Week 3:
 
-#### [Vocab](#vocabulary-2)
+- #### [Vocab](#vocabulary-2)
 
-#### [Questions](#example-questions-2)
+- #### [Questions](#example-questions-2)
 
-#### [Concepts](#essential-concepts-2)
+- #### [Concepts](#essential-concepts-2)
 
-###### [Back to the top](#table-of-contents)
+- ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
 ###### [Week 3](#week-3-1)
 
-Malware
+- Malware
 
-Ransomware
+- Ransomware
 
-Cryptomalware
+- Cryptomalware
 
-Fileless virus
+- Fileless virus
 
-Command and control (C&C)
+- Command and control (C&C)
 
-Bot
+- Bot
 
-Worm
+- Worm
 
-Potentially unwanted programs (PUPs)
+- Potentially unwanted programs (PUPs)
 
-Trojan
+- Trojan
 
-Spyware
+- Spyware
 
-Keylogger
+- Keylogger
 
-Remote access trojan (RAT)
+- Remote access trojan (RAT)
 
-Backdoor
+- Backdoor
 
-Logic bomb
+- Logic bomb
 
-Cross-site scripting (XSS)
+- Cross-site scripting (XSS)
 
-Rootkit
+- Rootkit
 
-Injections
+- Injections
 
-Extensible markup language (XML)
+- Extensible markup language (XML)
 
-XML injection
+- XML injection
 
-SQL injection
+- SQL injection
 
-Structured query language
+- Structured query language
 
-Cross-site request forgery (CSRF)
+- Cross-site request forgery (CSRF)
 
-Client-side request forgery
+- Client-side request forgery
 
-Resource exhaustion attacks
+- Resource exhaustion attacks
 
-Memory leak
+- Memory leak
 
-Server-side request forgery (SSRF)
+- Server-side request forgery (SSRF)
 
-Replay
+- Replay
 
-Buffer overflow attack
+- Buffer overflow attack
 
-Integer overflow attack
+- Integer overflow attack
 
-Error handling
+- Error handling
 
-Improper input handling
+- Improper input handling
 
-Pointer/object dereference
+- Pointer/object dereference
 
-Race condition
+- Race condition
 
-Time of check/time of use
+- Time of check/time of use
 
-Refactoring
+- Refactoring
 
-Application program interface (API) attack
+- Application program interface (API) attack
 
-Device driver manipulation
+- Device driver manipulation
 
-Shimming
+- Shimming
 
-DLL injection
+- DLL injection
 
-Remote access trojan
+- Remote access trojan
 
-Tainted training data for machine learning
+- Tainted training data for machine learning
 
-Security of the ML algorithms
+- Security of the ML algorithms
 
-Adversarial artificial intelligence
+- Adversarial artificial intelligence
 
 ## Example questions
 
