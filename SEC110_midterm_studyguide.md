@@ -1147,6 +1147,39 @@ A: Cellular
 
 ###### [Week 5](#week-5-1)
 
+Module Objectives
+
+1.	List and compare the different types of mobile devices and how they are deployed  
+-	Tablets, smartphones, wearables, and portable computers  
+-	Mobile device connectivity methods  
+-	Enterprise deployment models (BYOD, CYOD, COPE, VDI, etc.)
+
+2.	Explain the ways to secure a mobile device  
+-	Mobile device risks  
+-	Protecting mobile devices
+
+3.	Describe the vulnerabilities and protections of embedded and specialized devices  
+-	Types of embedded and specialized devices  
+-	Understand the hardware and software of embedded devices (Raspberry Pi, FPGA, SoC)  
+-	Other types of specialized systems (smart meters, medical systems, aircraft and vehicle control systems)  
+-	Industrial systems (ICSs, SCADA)  
+-	Other examples (HVAC, multifunctional printer (MFP), unmanned aerial vehicle (UAV/drone))  
+
+4.	Explain the issues surrounding securing specialized devices  
+-	Understand Internet of Things (IoT)  
+-	Understand the security issues and constraints as they relate to embedded/specialized devices  
+o	Power – devices and systems are optimized to draw low levels of power so they lack strong security measures  
+o	Computation – low processing capabilities  
+o	Network – simplified network protocols lack advanced security features  
+o	Cryptography – encryption and decryption require more processing power than these devices are typically capable of  
+o	Inability to patch – difficult to address exposed security vulnerabilities  
+o	Authentication – most lack authentication features  
+o	Range – may be restricted to a close range  
+o	Cost – less expensive = less security features  
+o	Implied trust – many are designed with “implied trust” and lack essential security features  
+o	Weak defaults – manufacturers often use simple default credentials to simplify setting up the device  
+
+
 # Week 6:
 
 #### [Vocab](#vocabulary-5)
