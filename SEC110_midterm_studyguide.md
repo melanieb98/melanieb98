@@ -1,6 +1,6 @@
 # Table of Contents:
 
-### [Week 1](#week-1-1)
+- ### [Week 1](#week-1-1)
 
 #### [Vocab](#vocabulary)
 
@@ -8,7 +8,7 @@
 
 #### [Concepts](#essential-concepts)
 
-### [Week 2](#week-2-1)
+- ### [Week 2](#week-2-1)
 
 #### [Vocab](#vocabulary-1)
 
@@ -16,7 +16,7 @@
 
 #### [Concepts](#essential-concepts-1)
 
-### [Week 3](#week-3-1)
+- ### [Week 3](#week-3-1)
 
 #### [Vocab](#vocabulary-2)
 
