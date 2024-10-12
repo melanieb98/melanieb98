@@ -321,6 +321,50 @@ A: Spimming
 
 ###### [Week 1](#week-1-1)
 
+Module Objectives
+
+**1.	Define information security and explain why it is important**   
+-	Confidentiality  
+-	Integrity  
+-	Availability
+
+**2.	Identify threat actors and their attributes**  
+-	Financial crimes divided by target (Individual, enterprise, government)  
+-	Three types of hackers (White hat, grey hat, black hat)  
+-	Describe types of threat actors  
+o	Script kiddies  
+o	Hacktivists  
+o	State actors  
+o	Insiders  
+o	Competitors  
+o	Criminal syndicates  
+o	Shadow IT  
+o	Brokers  
+o	Cyberterrorists
+
+**3.	Describe the different types of vulnerabilities and attacks**  
+-	Platform  
+-	Configuration  
+-	Third party  
+-	Patches  
+-	Zero day  
+-	Explain attack vectors  
+o	Email  
+o	Wireless  
+o	Removable media  
+o	Direct access  
+o	Social media  
+o	Supply chain  
+o	Cloud  
+-	Social engineering attacks
+
+**4.	Explain the impact of attacks**  
+-	Data loss  
+-	Data exfiltration  
+-	Data breach  
+-	Identity theft  
+-	Effects on the organization (availability loss, financial loss, reputation)
+
 # Week 2:
 
 #### [Vocab](#vocabulary-1)
@@ -541,6 +585,37 @@ A: Black box
 
 ###### [Week 2](#week-2-1)
 
+Module Objectives
+
+**1.	Explain what a penetration test is**  
+-	Defining  
+-	Why conduct a pen test  
+-	Who should perform pen tests?
+
+**2.	Identify the rules of engagement and how to perform a pen test**  
+-	Timing  
+-	Scope  
+-	Authorization  
+-	Exploitation  
+-	Communication  
+-	Cleanup  
+-	Reporting  
+-	Two phases of penetration testing: recon and penetration
+
+**3.	Define vulnerability scanning**  
+-	What is it  
+-	How to conduct a scan  
+-	How to use the data from a scan, data management tools (SIEM, SOAR)  
+-	Threat hunting
+
+**4.	Describe different cybersecurity resources**  
+-	Frameworks  
+-	Regulations  
+-	Legislation  
+-	Standards  
+-	Benchmarks/secure configuration guides  
+-	Information sources
+
 # Week 3:
 
 #### [Vocab](#vocabulary-2)
@@ -713,6 +788,30 @@ A: Bot herder
 ## Essential concepts
 
 ###### [Week 3](#week-3-1)
+
+Module Objectives
+
+**1.	Identify the different types of attacks using malware**  
+-	Imprison  
+-	Launch  
+-	Snoop  
+-	Deceive  
+-	Evade
+
+**2.	Define application attacks**  
+-	Scripting  
+-	Injection  
+-	Request forgery  
+-	Replay
+
+**3.	Explain how threat actors use application attacks**  
+-	Exploiting memory vulnerabilities  
+-	Improper exception and error handling  
+-	External software vulnerabilities
+
+**4.	Define adversarial artificial intelligence attacks**  
+-	AI and ML  
+-	Risks of using AI and ML for cybersecurity purposes
 
 # Week 4:
 
@@ -939,6 +1038,23 @@ A: The cybersecurity expert checked with CISCP and also investigated the dark we
 ## Essential concepts
 
 ###### [Week 4](#week-4-1)
+
+Module Objectives
+
+**1.	Describe different threat intelligence sources**  
+-	Key risk indicators (KRIs) and indicators of compromise (IOC)  
+-	Open/closed source information sources  
+-	Vulnerability databases, threat maps, file and code repositories, dark web
+
+**2.	List the steps for securing an endpoint**  
+-	Confirm boot integrity  
+-	Protect endpoints  
+-	Harden endpoints
+
+**3.	Explain how to create and deploy SecDevOps**  
+-	Application development concepts  
+-	Secure coding techniques  
+-	Code testing
 
 # Week 5:
 
@@ -1411,6 +1527,28 @@ A: Nonrepudiation
 
 ###### [Week 6](#week-6-1)
 
+Module Objectives
+
+**1.	Define cryptography**  
+-	What is cryptography?  
+-	Cryptography use cases  
+-	Limitations of cryptography
+
+**2.	Describe hash, symmetric, and asymmetric cryptographic algorithms**  
+-	Understand stream ciphers, block ciphers, and sponge functions  
+-	Hash algorithms  
+-	Symmetric cryptographic algorithms  
+-	Asymmetric cryptographic algorithms
+
+**3.	Explain different cryptographic attacks**  
+-	Algorithm attacks  
+-	Collision attacks
+
+**4.	List the carious ways in which cryptography is used**  
+-	Encryption through software  
+-	Hardware encryption  
+-	Blockchain
+
 # Week 7:
 
 #### [Vocab](#vocabulary-6)
@@ -1758,3 +1896,22 @@ Macro
 
 ###### [Week 8](#week-8-1)
 
+Module Objectives
+
+**1.	Describe the different types of networking-based attacks**  
+-	Interception attacks  
+-	Layer 2 attacks  
+-	DNS attacks  
+-	Distributed denial of service attacks  
+-	Malicious coding and scripting attacks
+
+**2.	List the different network assessment tools**  
+-	Network reconnaissance and discovery tools  
+-	Linux file manipulation tools  
+-	Scripting tools  
+-	Packet capture and replay tools
+
+**3.	Explain how physical security defenses can be used**  
+-	External perimeter defenses  
+-	Internal physical security controls  
+-	Computer hardware security
