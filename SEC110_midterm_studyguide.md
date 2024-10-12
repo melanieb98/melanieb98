@@ -1732,159 +1732,159 @@ Module Objectives:
 
 -	**MAC flooding attack** – An attack in which the **memory of a switch is flooded with spoofed packets** to force it to **function like a network hub** and **broadcast frames to all ports**
 
--	**DNS poisoning** – An attack that **substitutes DNS addresses** in a **local lookup table** so that the computer is automatically redirected to an attacker’s device  
+-	**DNS poisoning** – An attack that **substitutes DNS addresses** in a **local lookup table** so that the computer is **automatically redirected to an attacker’s device**  
 
--	URL redirection – An attack in which a user is redirected to another site  
+-	**URL redirection** – An attack in which a **user is redirected to another site**  
 
--	Domain reputation – An attack in which the status of a site is manipulated to earn a low domain reputation score  
+-	**Domain reputation** – An attack in which the **status of a site is manipulated** to earn a **low domain reputation score**  
 
--	Domain name resolution – Mapping computers and device names to IP addresses
+-	**Domain name resolution** – Mapping **computers** and **device names** to **IP addresses**
 
--	DNS hijacking – An attack that infect an external DNS server with IP addresses pointing to malicious sites  
+-	**DNS hijacking** – An attack that infect an **external DNS server** with **IP addresses pointing to malicious sites**  
 
--	Distributed denial of service (DDoS) – An attack that uses many computers to perform a DoS attack  
+-	**Distributed denial of service (DDoS)** – An attack that uses **many computers** to perform a **DoS attack**  
 
--	PowerShell – A task automation and configuration management framework from Microsoft  
+-	**PowerShell** – A **task automation and configuration** management framework from Microsoft  
 
--	Operational Technology (OT) – The source of a DDoS attack in which endpoints can be programmed and have an IP address  
+-	**Operational Technology (OT)** – The **source of a DDoS attack** in which endpoints can be **programmed and have an IP address**  
 
--	Visual Basic for Applications (VBA) – An event driven Microsoft programming language  
+-	**Visual Basic for Applications (VBA)** – An **event driven** Microsoft programming language  
 
--	Macros – A series of instructions that can be grouped together as a single command  
+-	**Macros** – A **series of instructions** that can be **grouped together** as a single command  
 
--	Traceroute – A Linux command-line utility that shows the details about the path a packet takes from a computer or device to a destination  
+-	**Traceroute** – A **Linux** command-line utility that **shows the details about the path** a packet takes from a computer or device to a destination  
 
--	Python – A popular programming language that can run on several OS platforms  
+-	**Python** – A popular **programming language** that **can run on several OS platforms**  
 
--	Bash – The command language interpreter for the Linux/UNIX OS  
+-	**Bash** – The **command language interpreter** for the **Linux/UNIX** OS  
 
--	Tracert – A windows command-line utility that shows the details about the path a packet takes from a computer or device to a destination  
+-	**Tracert** – A **Windows** command-line utility that **shows the details about the path** a packet takes from a computer or device to a destination  
 
--	nslookup – A Windows command-line utility used as a DNS diagnostic utility  
+-	**nslookup** – A **Windows** command-line utility used as a **DNS diagnostic utility**  
 
--	Dig – A Linux command-line utility used for DNS diagnostics  
+-	**dig** – A **Linux** command-line utility used for **DNS diagnostics**  
 
--	Ipconfig – A Windows command-line utility that displays network configuration information such as the IP address, network mask, and gateway for all physical and virtual network adapters  
+-	**Ipconfig** – A **Windows** command-line utility that **displays network configuration information** such as the **IP address, network mask, and gateway** for all **physical and virtual network adapters**  
 
--	Ifconfig – A Linux command-line utility that displays network configuration information such as the IP address, network mask, and gateway for all physical and virtual network adapters  
+-	**Ifconfig** – A **Linux** command-line utility that **displays network configuration information** such as the **IP address, network mask, and gateway** for all **physical and virtual network adapters**  
 
--	Ping – A Windows and Linux command-line utility that tests the ability of the source computer to reach a specified destination computer  
+-	**Ping** – A **Windows and Linux** command-line utility that **tests the ability of the source computer to reach a specified destination computer**  
 
--	Netstat – A Windows and Linux command-line utility that provides detailed information about current network connections as well as network connections for the Transmission Control Protocol (TCP) network interfaces and routing tables
+-	**Netstat** – A **Windows and Linux** command-line utility that **provides detailed information about current network connections** as well as network connections for the **Transmission Control Protocol (TCP) network interfaces and routing tables**
 
--	Route – A Linux command-line utility that displays and manipulates IP routing tables to create static routes to specific hosts  
+-	**Route** – A **Linux** command-line utility that **displays and manipulates IP routing tables** to create **static routes to specific hosts**  
 
--	Pathping – A Windows command-line utility that tests the connection to each hop  
+-	**Pathping** – A **Windows** command-line utility that **tests the connection to each hop**  
 
--	Curl – A Linux command-line utility used to transfer data to or from a server  
+-	**Curl** – A **Linux** command-line utility used to **transfer data to or from a server**  
 
--	theHarvester – A Kali Linux utility that provides information about email accounts, user names, and hostnames/subdomains from public sources  
+-	**theHarvester** – A **Kali Linux** utility that **provides information about email accounts, user names, and hostnames/subdomains** from public sources  
 
--	hping – A Linux command-line utility that sends custom TCP/IP packets  
+-	**hping** – A **Linux** command-line utility that **sends custom TCP/IP packets**  
 
--	dnsenum – A Kali Linux utility that lists DNS information of a domain  
+-	**dnsenum* – A **Kali Linux** utility that **lists DNS information of a domain**  
 
--	sn1per – A penetration testing tool  
+-	**sn1per** – A **penetration testing** tool  
 
--	cuckoo – An automated malware analysis system  
+-	**cuckoo** – An **automated malware analysis** system  
 
--	nessus – A vulnerability assessment tool  
+-	**nessus** – A **vulnerability assessment** tool  
 
--	scanless – A tool for using websites to perform port scan  
+-	**scanless** – A tool for **using websites to perform port scan**  
 
--	nmap – A tool for network discovery and security auditing  
+-	**nmap** – A tool for **network discovery** and **security auditing**  
 
--	head – A Linux text file manipulation tool for displaying the first 10 lines of a file  
+-	**head** – A **Linux** text file manipulation tool for **displaying the first 10 lines of a file**  
 
--	grep – A linux text file manipulation tool used for searching for keyword  
+-	**grep** – A **Linux** text file manipulation tool used for **searching for a keyword**  
 
--	cat – A linux text file manipulation tool for displaying an entire file  
+-	**cat** – A **Linux** text file manipulation tool for **displaying an entire file**  
 
--	tail – A linux text file manipulation tool for displaying the last 10 lines of a file  
+-	**tail** – A **Linux** text file manipulation tool for **displaying the last 10 lines of a file**  
 
--	chmod – A linux text file manipulation tool for changing file permissions  
+-	**chmod** – A **Linux** text file manipulation tool for **changing file permissions**  
 
--	logger – A linux text file manipulation tool for adding content to syslog file  
+-	**logger** – A **Linux** text file manipulation tool for **adding content to syslog file**  
 
--	OpenSSL – A cryptography library that offers open source applications of the TLS protocol  
+-	**OpenSSL** – A **cryptography library** that offers **open source applications** of the **TLS protocol**  
 
--	Industrial camouflage – An attempt to make the physical presence of a building as nondescript as possible so that to a casual viewer, the building does not look like it houses anything important  
+-	**Industrial camouflage** – An attempt to make the **physical presence** of a building as **nondescript** as possible so that to a casual viewer, the **building does not look like it houses anything important**  
 
--	Tcpreplay – A tool for editing packets and then replaying the packets back onto the network to observe their behavior  
+-	**Tcpreplay** – A tool for **editing packets** and then **replaying the packets back onto the network** to **observe their behavior**  
 
--	Wireshark – A popular GUI packet capture and analysis tool  
+-	**Wireshark** – A popular **GUI packet capture and analysis tool**  
 
--	Tcpdump – A command-line packet analyzer  
+-	**Tcpdump** – A command-line **packet analyzer**  
 
--	Fencing – A tall, permanent structure to keep out unauthorized personnel  
+-	**Fencing** – A tall, permanent structure to keep out unauthorized personnel  
 
--	Signage – Written information on fencing that explains the area is restricted  
+-	**Signage** – Written information on fencing that explains the area is restricted  
 
--	Security guards – People who patrol and monitor restricted areas  
+-	**Security guards** – People who patrol and monitor restricted areas  
 
--	Lighting – Illumination of a secured area so that it can be viewed after dark  
+-	**Lighting** – Illumination of a secured area so that it can be viewed after dark  
 
--	Barricade – Objects generally designed to block the passage of traffic  
+-	**Barricade** – Objects generally designed to **block the passage of traffic**  
 
--	Bollard – A short but sturdy vertical post used as a vehicular traffic barricade to prevent a car from ramming into a secured area  
+-	**Bollard** – A **short but sturdy vertical post** used as a **vehicular traffic barricade** to prevent a car from ramming into a secured area  
 
--	Object detection – Using high-end video surveillance camera that can identify a suspicious objective and sound an alert  
+-	**Object detection** – Using **high-end video surveillance** camera that can **identify a suspicious objective** and **sound an alert**  
 
--	Closed circuit television – Activity captured by video surveillance cameras that transmit a signal to a specific and limited set of receivers  
+-	**Closed circuit television** – Activity captured by **video surveillance** cameras that **transmit a signal to a specific and limited set of receivers**  
 
--	Two-person integrity/control – Using two security guards to prevent a single guard from acting maliciously  
+-	**Two-person integrity/control** – Using **two security guards** to prevent a single guard from acting maliciously  
 
--	Motion recognition – Using high-end video surveillance cameras that record when they detect movement  
+-	**Motion recognition** – Using **high-end video surveillance** cameras that **record when they detect movement**  
 
--	Robot sentries – Automated devices that patrol and use CCTV with object detection in public areas  
+-	**Robot sentries** – **Automated devices** that **patrol** and use **CCTV with object detection** in public areas  
 
--	Receptionist – A person who staffs a public reception area to provide a level of active security  
+-	**Receptionist** – A person who **staffs a public reception area** to provide a **level of active security**  
 
--	Visitor log – A paper or electronic record of people granted access to a property  
+-	**Visitor log** – A paper or electronic **record of people granted access** to a property  
 
--	Sensors – Electronic devices that supplement the work of security guards  
+-	**Sensors** – **Electronic devices** that **supplement** the work of security guards  
 
--	Alarm – An audible warning of an unexpected or unusual actions  
+-	**Alarm** – An **audible warning** of an unexpected or unusual actions  
 
--	Motion detection – A sensor that can determine an object’s change in position in relation to its surroundings  
+-	**Motion detection** – A sensor that can determine an **object’s change in position in relation to its surroundings**  
 
--	Proximity – A sensor that detects the presence of an object when it enters the sensor’s field  
+-	**Proximity** – A sensor that detects the **presence of an object when it enters the sensor’s field**  
 
--	Noise detection – A sensor that can detect a suspicious noise through microphones  
+-	**Noise detection** – A sensor that can detect a **suspicious noise** through microphones  
 
--	Temperature detection – A sensor that can detect a sudden increase or decrease in temperature or the temperature of an object in relation to its surroundings  
+-	**Temperature detection** – A sensor that can detect a **sudden increase or decrease in temperature** or the **temperature of an object in relation to its surroundings**  
 
--	Moisture detection – A sensor that can detect water leaks, dampness, or increased moisture levels  
+-	**Moisture detection** – A sensor that can detect **water leaks, dampness, or increased moisture levels**  
 
--	Physical locks – A type of lock that requires a key for opening  
+-	**Physical locks** – A type of **lock** that requires a **key** for opening  
 
--	Air gap – An area that separates threat actors from defenders  
+-	**Air gap** – An area that separates threat actors from defenders  
 
--	Demilitarized zone (DMZ) – An area that separates threat actors from defenders  
+-	**Demilitarized zone (DMZ)** – An area that separates threat actors from defenders  
 
--	Secure areas – Areas that separate threat actors from defenders  
+-	**Secure areas** – **Areas** that separate **threat actors** from **defenders**  
 
--	Electronic lock – A type of lock that uses buttons that must be pushed in the proper sequence for opening  
+-	**Electronic lock** – A type of **lock** that uses **buttons that must be pushed in the proper sequence** for opening  
 
--	Badge – A token that indicates the wearer has been approved  
+-	**Badge** – A **token** that indicates the **wearer has been approved**  
 
--	Mantrap – An area designed as an air gap to separate a nonsecure area from a secured area  
+-	**Mantrap** – An area designed as an **air gap** to **separate a nonsecure area from a secured area**  
 
--	Fire suppression – Attempts to reduce the impact of a fire  
+-	**Fire suppression** – Attempts to reduce the impact of a fire  
 
--	Protection cable distribution – A system of cable conduits used to protect classified information transmitted between two secure areas  
+-	**Protection cable distribution** – A **system of cable conduits** used to **protect classified information** transmitted **between two secure areas**  
 
--	Hot aisle/cold aisle – A layout used to reduce the heat in a data center by managing air flow  
+-	**Hot aisle/cold aisle** – A **layout** used to **reduce the heat in a data center** by **managing air flow**  
 
--	Safe – A ruggedized steel box with a lock  
+-	**Safe** – A ruggedized steel box with a lock  
 
--	Vault – A ruggedized steel box with a lock  
+-	**Vault** – A ruggedized steel **box** with a **lock**  
 
--	Faraday cage – A metallic enclosure that prevents the entry or escape of an electromagnetic field  
+-	**Faraday cage** – A metallic enclosure that **prevents the entry or escape of an electromagnetic field**  
 
--	Cable lock – A device inserted into the security slot of a portable device to prevent its theft  
+-	**Cable lock** – A device **inserted into the security slot** of a portable device to **prevent its theft**  
 
--	Macro – A series of instructions that can be grouped together as a single command
+-	**Macro** – A **series of instructions** that can be **grouped together as a single command**
 
 ## Example questions
 
