@@ -1168,17 +1168,16 @@ Module Objectives
 **4.	Explain the issues surrounding securing specialized devices**  
 -	Understand Internet of Things (IoT)  
 -	Understand the security issues and constraints as they relate to embedded/specialized devices  
-o	Power – devices and systems are optimized to draw low levels of power so they lack strong security measures  
-o	Computation – low processing capabilities  
-o	Network – simplified network protocols lack advanced security features  
-o	Cryptography – encryption and decryption require more processing power than these devices are typically capable of  
-o	Inability to patch – difficult to address exposed security vulnerabilities  
-o	Authentication – most lack authentication features  
-o	Range – may be restricted to a close range  
-o	Cost – less expensive = less security features  
-o	Implied trust – many are designed with “implied trust” and lack essential security features  
-o	Weak defaults – manufacturers often use simple default credentials to simplify setting up the device  
-
+o	*Power* – devices and systems are optimized to draw low levels of power so they lack strong security measures  
+o	*Computation* – low processing capabilities  
+o	*Network* – simplified network protocols lack advanced security features  
+o	*Cryptography* – encryption and decryption require more processing power than these devices are typically capable of  
+o	*Inability to patch* – difficult to address exposed security vulnerabilities  
+o	*Authentication* – most lack authentication features  
+o	*Range* – may be restricted to a close range  
+o	*Cost* – less expensive = less security features  
+o	*Implied trust* – many are designed with “implied trust” and lack essential security features  
+o	*Weak defaults* – manufacturers often use simple default credentials to simplify setting up the device  
 
 # Week 6:
 
