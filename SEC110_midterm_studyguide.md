@@ -1782,7 +1782,7 @@ Module Objectives:
 
 -	**hping** – A **Linux** command-line utility that **sends custom TCP/IP packets**  
 
--	**dnsenum* – A **Kali Linux** utility that **lists DNS information of a domain**  
+-	**dnsenum** – A **Kali Linux** utility that **lists DNS information of a domain**  
 
 -	**sn1per** – A **penetration testing** tool  
 
