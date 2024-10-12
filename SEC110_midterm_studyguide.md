@@ -1718,173 +1718,173 @@ Module Objectives:
 
 ###### [Week 8](#week-8-1)
 
-Session replay
+-	**Session replay** – an attack in which an **attacker attempts to impersonate the user** by using the **user’s session token**  
 
-Man-in-the-middle (MITM)
+-	**Man-in-the-middle (MITM)** – An attack that **intercepts legitimate communication** to **eavesdrop** on the conversation or **impersonate** one of the parties  
 
-MAC cloning attack
+-	**MAC cloning attack** – An attack that **spoofs a MAC address** on a device so that the switch **changes its MAC address table** to reflect the new association of **that MAC with the port to which the attacker’s device is connected**  
 
-ARP poisoning
+-	**ARP poisoning** – An attack that **corrupts the ARP cache**  
 
-Address resolution protocol (ARP)
+-	**Address resolution protocol (ARP)** – Part of the **TCP/IP protocol** for determining the **MAC address based on the IP address**  
 
-Man-in-the-browser (MITB)
+-	**Man-in-the-browser (MITB)** – An attack that **intercepts communication between a browser and the underlying computer**  
 
-MAC flooding attack
+-	**MAC flooding attack** – An attack in which the **memory of a switch is flooded with spoofed packets** to force it to **function like a network hub** and **broadcast frames to all ports**
 
-DNS poisoning
+-	**DNS poisoning** – An attack that **substitutes DNS addresses** in a **local lookup table** so that the computer is automatically redirected to an attacker’s device  
 
-URL redirection
+-	URL redirection – An attack in which a user is redirected to another site  
 
-Domain reputation
+-	Domain reputation – An attack in which the status of a site is manipulated to earn a low domain reputation score  
 
-Domain name resolution
+-	Domain name resolution – Mapping computers and device names to IP addresses
 
-DNS hijacking
+-	DNS hijacking – An attack that infect an external DNS server with IP addresses pointing to malicious sites  
 
-Distributed denial of service (DDoS)
+-	Distributed denial of service (DDoS) – An attack that uses many computers to perform a DoS attack  
 
-PowerShell
+-	PowerShell – A task automation and configuration management framework from Microsoft  
 
-Operational Technology (OT)
+-	Operational Technology (OT) – The source of a DDoS attack in which endpoints can be programmed and have an IP address  
 
-Visual Basic for Applications (VBA)
+-	Visual Basic for Applications (VBA) – An event driven Microsoft programming language  
 
-Macros
+-	Macros – A series of instructions that can be grouped together as a single command  
 
-Traceroute
+-	Traceroute – A Linux command-line utility that shows the details about the path a packet takes from a computer or device to a destination  
 
-Python
+-	Python – A popular programming language that can run on several OS platforms  
 
-Bash
+-	Bash – The command language interpreter for the Linux/UNIX OS  
 
-Tracert
+-	Tracert – A windows command-line utility that shows the details about the path a packet takes from a computer or device to a destination  
 
-Nslookup
+-	nslookup – A Windows command-line utility used as a DNS diagnostic utility  
 
-Dig
+-	Dig – A Linux command-line utility used for DNS diagnostics  
 
-Ipconfig
+-	Ipconfig – A Windows command-line utility that displays network configuration information such as the IP address, network mask, and gateway for all physical and virtual network adapters  
 
-Ifconfig
+-	Ifconfig – A Linux command-line utility that displays network configuration information such as the IP address, network mask, and gateway for all physical and virtual network adapters  
 
-Ping
+-	Ping – A Windows and Linux command-line utility that tests the ability of the source computer to reach a specified destination computer  
 
-Netstat
+-	Netstat – A Windows and Linux command-line utility that provides detailed information about current network connections as well as network connections for the Transmission Control Protocol (TCP) network interfaces and routing tables
 
-Route
+-	Route – A Linux command-line utility that displays and manipulates IP routing tables to create static routes to specific hosts  
 
-Pathping
+-	Pathping – A Windows command-line utility that tests the connection to each hop  
 
-Curl
+-	Curl – A Linux command-line utility used to transfer data to or from a server  
 
-theHarvester
+-	theHarvester – A Kali Linux utility that provides information about email accounts, user names, and hostnames/subdomains from public sources  
 
-hping
+-	hping – A Linux command-line utility that sends custom TCP/IP packets  
 
-dnsenum
+-	dnsenum – A Kali Linux utility that lists DNS information of a domain  
 
-sn1per
+-	sn1per – A penetration testing tool  
 
-cuckoo
+-	cuckoo – An automated malware analysis system  
 
-nessus
+-	nessus – A vulnerability assessment tool  
 
-scanless
+-	scanless – A tool for using websites to perform port scan  
 
-nmap
+-	nmap – A tool for network discovery and security auditing  
 
-head
+-	head – A Linux text file manipulation tool for displaying the first 10 lines of a file  
 
-grep
+-	grep – A linux text file manipulation tool used for searching for keyword  
 
-cat
+-	cat – A linux text file manipulation tool for displaying an entire file  
 
-tail
+-	tail – A linux text file manipulation tool for displaying the last 10 lines of a file  
 
-chmod
+-	chmod – A linux text file manipulation tool for changing file permissions  
 
-logger
+-	logger – A linux text file manipulation tool for adding content to syslog file  
 
-OpenSSL
+-	OpenSSL – A cryptography library that offers open source applications of the TLS protocol  
 
-Industrial camouflage
+-	Industrial camouflage – An attempt to make the physical presence of a building as nondescript as possible so that to a casual viewer, the building does not look like it houses anything important  
 
-Tcpreplay
+-	Tcpreplay – A tool for editing packets and then replaying the packets back onto the network to observe their behavior  
 
-Wireshark
+-	Wireshark – A popular GUI packet capture and analysis tool  
 
-Tcpdump
+-	Tcpdump – A command-line packet analyzer  
 
-Fencing
+-	Fencing – A tall, permanent structure to keep out unauthorized personnel  
 
-Signage
+-	Signage – Written information on fencing that explains the area is restricted  
 
-Security guards
+-	Security guards – People who patrol and monitor restricted areas  
 
-Lighting
+-	Lighting – Illumination of a secured area so that it can be viewed after dark  
 
-Barricade
+-	Barricade – Objects generally designed to block the passage of traffic  
 
-Bollard
+-	Bollard – A short but sturdy vertical post used as a vehicular traffic barricade to prevent a car from ramming into a secured area  
 
-Object detection
+-	Object detection – Using high-end video surveillance camera that can identify a suspicious objective and sound an alert  
 
-Closed circuit television
+-	Closed circuit television – Activity captured by video surveillance cameras that transmit a signal to a specific and limited set of receivers  
 
-Two-person integrity/control
+-	Two-person integrity/control – Using two security guards to prevent a single guard from acting maliciously  
 
-Motion recognition
+-	Motion recognition – Using high-end video surveillance cameras that record when they detect movement  
 
-Robot sentries
+-	Robot sentries – Automated devices that patrol and use CCTV with object detection in public areas  
 
-Receptionist
+-	Receptionist – A person who staffs a public reception area to provide a level of active security  
 
-Visitor log
+-	Visitor log – A paper or electronic record of people granted access to a property  
 
-Sensors
+-	Sensors – Electronic devices that supplement the work of security guards  
 
-Alarm
+-	Alarm – An audible warning of an unexpected or unusual actions  
 
-Motion detection
+-	Motion detection – A sensor that can determine an object’s change in position in relation to its surroundings  
 
-Proximity
+-	Proximity – A sensor that detects the presence of an object when it enters the sensor’s field  
 
-Noise detection
+-	Noise detection – A sensor that can detect a suspicious noise through microphones  
 
-Temperature detection
+-	Temperature detection – A sensor that can detect a sudden increase or decrease in temperature or the temperature of an object in relation to its surroundings  
 
-Moisture detection
+-	Moisture detection – A sensor that can detect water leaks, dampness, or increased moisture levels  
 
-Physical locks
+-	Physical locks – A type of lock that requires a key for opening  
 
-Air gap
+-	Air gap – An area that separates threat actors from defenders  
 
-Demilitarized zone
+-	Demilitarized zone (DMZ) – An area that separates threat actors from defenders  
 
-Secure areas
+-	Secure areas – Areas that separate threat actors from defenders  
 
-Electronic lock
+-	Electronic lock – A type of lock that uses buttons that must be pushed in the proper sequence for opening  
 
-Badge
+-	Badge – A token that indicates the wearer has been approved  
 
-Mantrap
+-	Mantrap – An area designed as an air gap to separate a nonsecure area from a secured area  
 
-Fire suppression
+-	Fire suppression – Attempts to reduce the impact of a fire  
 
-Protection cable distribution
+-	Protection cable distribution – A system of cable conduits used to protect classified information transmitted between two secure areas  
 
-Hot aisle/cold aisle
+-	Hot aisle/cold aisle – A layout used to reduce the heat in a data center by managing air flow  
 
-Safe
+-	Safe – A ruggedized steel box with a lock  
 
-Vault
+-	Vault – A ruggedized steel box with a lock  
 
-Faraday cage
+-	Faraday cage – A metallic enclosure that prevents the entry or escape of an electromagnetic field  
 
-Cable lock
+-	Cable lock – A device inserted into the security slot of a portable device to prevent its theft  
 
-Macro
+-	Macro – A series of instructions that can be grouped together as a single command
 
 ## Example questions
 
