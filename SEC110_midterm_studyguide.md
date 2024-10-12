@@ -1512,11 +1512,13 @@ Module Objectives:
 **1.	Define digital certificates**  
 -	Understand their purpose  
 -	Know how they are managed  
--	Determine which type of digital certificate is appropriate for different situations  
+-	Determine which type of digital certificate is appropriate for different situations
+
 **2.	Describe components of Public Key Infrastructure (PKI)**  
 -	Know PKI trust models  
 -	How it is managed  
--	Features of key management  
+-	Features of key management
+
 **3.	Describe different cryptographic methods**  
 -	Secure Sockets Layer (SSL)  
 -	Transport Layer Security (TLS)  
@@ -1524,7 +1526,8 @@ Module Objectives:
 -	Hypertext Transport Protocol Secure (HTTPS)  
 -	Secure/Multipurpose Internet Mail Extensions (S/MIME)  
 -	Secure Real-time Transport Protocol (SRTP)  
--	IP Security (IPsec)  
+-	IP Security (IPsec)
+
 **4.	Explain how to implement cryptography**  
 -	Key strength  
 -	Secret algorithms  
