@@ -1149,23 +1149,23 @@ A: Cellular
 
 Module Objectives
 
-1.	List and compare the different types of mobile devices and how they are deployed  
+**1.	List and compare the different types of mobile devices and how they are deployed**  
 -	Tablets, smartphones, wearables, and portable computers  
 -	Mobile device connectivity methods  
 -	Enterprise deployment models (BYOD, CYOD, COPE, VDI, etc.)
 
-2.	Explain the ways to secure a mobile device  
+**2.	Explain the ways to secure a mobile device**  
 -	Mobile device risks  
 -	Protecting mobile devices
 
-3.	Describe the vulnerabilities and protections of embedded and specialized devices  
+**3.	Describe the vulnerabilities and protections of embedded and specialized devices**  
 -	Types of embedded and specialized devices  
 -	Understand the hardware and software of embedded devices (Raspberry Pi, FPGA, SoC)  
 -	Other types of specialized systems (smart meters, medical systems, aircraft and vehicle control systems)  
 -	Industrial systems (ICSs, SCADA)  
 -	Other examples (HVAC, multifunctional printer (MFP), unmanned aerial vehicle (UAV/drone))  
 
-4.	Explain the issues surrounding securing specialized devices  
+**4.	Explain the issues surrounding securing specialized devices**  
 -	Understand Internet of Things (IoT)  
 -	Understand the security issues and constraints as they relate to embedded/specialized devices  
 o	Power – devices and systems are optimized to draw low levels of power so they lack strong security measures  
