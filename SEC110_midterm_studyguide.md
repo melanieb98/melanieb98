@@ -1507,6 +1507,32 @@ A: Nonrepudiation
 
 ###### [Week 7](#week-7-1)
 
+Module Objectives:
+
+**1.	Define digital certificates**  
+-	Understand their purpose  
+-	Know how they are managed  
+-	Determine which type of digital certificate is appropriate for different situations  
+**2.	Describe components of Public Key Infrastructure (PKI)**  
+-	Know PKI trust models  
+-	How it is managed  
+-	Features of key management  
+**3.	Describe different cryptographic methods**  
+-	Secure Sockets Layer (SSL)  
+-	Transport Layer Security (TLS)  
+-	Secure Shell (SSH)  
+-	Hypertext Transport Protocol Secure (HTTPS)  
+-	Secure/Multipurpose Internet Mail Extensions (S/MIME)  
+-	Secure Real-time Transport Protocol (SRTP)  
+-	IP Security (IPsec)  
+**4.	Explain how to implement cryptography**  
+-	Key strength  
+-	Secret algorithms  
+-	Block cipher modes of operation  
+-	Cryptographic service providers  
+-	The use of algorithm input values  
+
+
 # Week 8:
 
 #### [Vocab](#vocabulary-7)
