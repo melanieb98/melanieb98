@@ -66,13 +66,13 @@
 
 # Week 1:
 
-#### [Vocab](#vocabulary)
+- #### [Vocab](#vocabulary)
 
-#### [Questions](#example-questions)
+- #### [Questions](#example-questions)
 
-#### [Concepts](#essential-concepts)
+- #### [Concepts](#essential-concepts)
 
-###### [Back to the top](#table-of-contents)
+- ###### [Back to the top](#table-of-contents)
 
 ## Vocabulary
 
