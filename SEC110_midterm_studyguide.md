@@ -1890,6 +1890,66 @@ Module Objectives:
 
 ###### [Week 8](#week-8-1)
 
+Q: Tyler is a cybersecurity expert assigned to look after the security of a public DNS server. One day, during his usual inspection of the DNS server, he found that the DNS table has been altered, resulting in URL redirection for some users. What type of attack has Tyler discovered?  
+A: DNS hijacking
+
+q: Which of the following best describes trusted location in MS Office?  
+A: Trusted location allows you to run macros-enabled files with no security restrictions
+
+q: Which of the following can prevent macros attacks?  
+A: Protected view
+
+Q: In an interview, you are asked to configure a DNS server on a Linux machine. After successfully configuring the DNS server, you are asked to examine it using a client machine. After changing the nameserver of the client's machine to a newly created server, which of the following commands should you run to validate the DNS server to ensure it is working properly?  
+A: dig www.google.com
+
+Q: Maze must establish a communication channel between two data centers. After conducting a study, she came up with the idea of establishing a wired connection between them since they have to communicate in unencrypted form. Considering the security requirements, Maze proposed using an alarmed carrier PDS over a hardened carrier PDS. Why would Maze make this suggestion in her proposal?  
+A: Using a hardened carrier PDS would require someone to conduct periodic visual inspections
+
+Q: Which of the following correctly differentiates between a man-in-the-middle (MITM) attack and a man-in-the-browser (MITB)?  
+A: A MITM attack occurs between two endpoints, whereas a MITB attack occurs between a browser and underlying computer
+
+Q: During an interview, you are provided the following scenario: The enterprise that you recently joined is using the ISP DNS server to resolve domain names. You are asked which specific attack will need to be mitigated first to secure the enterprise network. Which of the following attacks should you choose?  
+A: DNS hijacking
+
+Q: A source computer's ability to reach a specified destination computer can be tested using which of the following?  
+A: ping
+
+Q: Which of the following is a third-party network analysis tool?  
+A: nmap
+
+Q: Which of the following statements about domain reputation is correct?  
+A: Domain reputation will be low if the domain is used for distributing malware or launching attacks.
+
+Q: Which of the following sensors is best suited for fire detection?  
+A: Temperature detection sensor
+
+Q: Your enterprise is hosting a web app that has limited security. As a security administrator, you are asked to take appropriate measures to restrict threat actors from hijacking users' sessions. Which of the following is the most appropriate action for you to take?  
+A: You should implement cryptography using OpenSSL
+
+Q: Which specific type of attack occurs when a threat actor redirects network traffic by modifying the local host file to send legitimate traffic anywhere they choose?  
+A: DNS poisoning
+
+Q: Which of the following is a layer 2 attack?  
+A: ARP poisoning
+
+Q: Which of the following best describes bash?  
+A: Bash is a command language interpreter
+
+Q: Which of the following is a major objective of packet analysis?  
+A: Assess and secure networks
+
+Q: Which of the following correctly differentiates between Tcpreplay and Tcpdump?  
+A: Tcpdump can only be used to analyze the packets, whereas Tcpreplay can analyze, edit, and load the edited packet back to the network
+
+Q: You are a security administrator asked to create a certificate signing request (CSR) to secure your enterprise's website. Which of the following tools should you use to accomplish this?  
+A: OpenSSL
+
+Q: You are a security expert asked to protect the webservers hosted in your building from exposure to anyone other than server admins. Which of the following physical security method should you implement to achieve this?  
+A: Demilitarized zones
+
+Q: In an interview, you are given the following scenario: David sent a message to Tina saying, "There is no school today!" For some reason, the message showed up on Tina's device as, "Come to the school ASAP!" You (the candidate) are asked to name the type of attack that would cause this situation. Which of the following should you identify?  
+A: MITM
+
 ## Essential concepts
 
 ###### [Week 8](#week-8-1)
