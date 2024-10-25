@@ -1996,6 +1996,162 @@ Module Objectives
 
 ###### [Week 10](#week-10-1)
 
+- **Stateless packet filtering** - A **firewall** that looks at the incoming packet and **permits or denies** it based on specific conditions
+
+- **geographical consideration** - **Firewall rules** that are in effect **depending on the location of an endpoint**
+
+- **content/URL filtering** - A **process used by a firewall** to **monitor websites accessed through HTTP** to create **custom filtering profiles**
+
+- **firewall** - **Hardware or software** that is **designed to limit the spread of malware**
+
+- **open source firewalls** - A firewall that is **freely available**
+
+- **Stateful packet filtering** - A **firewall** that keeps a record of the **state of a connection between an internal computer and an external device** and then **makes decisions based on the connection as well as the conditions**
+
+- **host-based firewall** - A **software firewall** that runs as a program on the local device to **block or filter traffic coming into and out of the computer**
+
+- **Hardware firewalls** - A **firewall** that runs on a **separate device**
+
+- **appliance firewall** - A **separate hardware device** designed to **protect an entire network**
+
+- **proprietary firewall** - A firewall that is **owned by an entity** who has an **exclusive right** to it
+
+- **virtual firewall** - A firewall that **runs in the cloud**. Virtual firewalls are **designed for settings**, such as **public cloud environments**, **in which deploying an appliance firewall would be difficult** or even impossible
+
+- **software firewall** - A firewall that runs as a program or service on a device, such as a computer or router
+
+- **web application firewall (WAF)** - A firewall that filters by examining the applications using HTTP
+
+- **forward proxy** - A computer or an application program that intercepts user requests from the internal secure network and then processes those requests on behalf of the users
+
+- **Unified threat management (UTM)** - An integrated device that combines several security functions
+
+- **network address translation gateway** - A cloudbased technology that performs NAT translations for cloud services
+
+- **next generation firewall (NGFW)** - A firewall that has additional functionality beyond a traditional firewall such as the ability to filter packets based on applications
+
+- **reverse proxy** - A proxy that routes requests coming from an external network to the correct internal server
+
+- **inline** - A system that is connected directly to the network and monitors the flow of data as it occurs
+
+- **DNS sinkhole** - A technique that changes a normal DNS request to a preconfigured IP address pointing to a device that will drop all received packets
+
+- **honeyfiles** - Software and data files on a honeypot that appear to be authentic but are actually imitations of real data files
+
+- **fake telemetry** - Fictitious data on a honeypot of how certain software features are used, application crashes, and general usage statistics and behavior
+
+- **honeypot** - A computer located in an area with limited security that serves as “bait” to threat actors and is intentionally configured with security vulnerabilities
+
+- **honeynet** - A network set up with intentional vulnerabilities
+
+- **passive** - A system that is connected to a device that receives a copy of network traffic
+
+- **out-of-band management** - Using an independent and dedicated channel to reach a device for management purposes
+
+- **Anomaly monitoring** - A monitoring technique used by an intrusion detection system (IDS) that creates a baseline of normal activities and compares actions against the baseline. Whenever there is a significant deviation from the baseline, an alarm is raised
+
+- **heuristic monitoring** - A monitoring technique that uses an algorithm to determine if a threat exists
+
+- **signature-based monitoring** - A monitoring technique that examines network traffic to look for well-known patterns and compares the activities against a predefined signature
+
+- **network intrusion detection system (NIDS)** - A technology that watches for attacks on the network and reports back to a central device
+
+- **network intrusion prevention system (NIPS)** - A technology that monitors network traffic to immediately react to block a malicious attack
+
+- **Behavioral monitoring** - A monitoring technique that uses the normal processes and actions as the standard and compares actions against it
+
+- **network hardware security module** - A special trusted network computer that performs cryptographic operations
+
+- **diagram** - A visual mapping of security appliances
+
+- **standard naming conventions** - Using the same conventions for assigning names to appliances
+
+- **baseline configuration** - A set of security settings that are the initial starting point and the minimum settings
+
+- **Internet Protocol schema** - A standard guide for assigning IP addresses to devices
+
+- **remote access VPN** - A user-to-LAN VPN connection for remote users
+
+- **virtual private network (VPN)** - A technology that enables the use of an unsecured public network as if it were a secure private network
+
+- **access control list (ACL)** - A set of permissions or rules attached to an object that administer its availability by granting or denying access
+
+- **site-to-site VPN** - A VPN connection in which multiple sites can connect to other sites over the Internet
+
+- **full tunnel** - A VPN technology in which all traffic is sent to the VPN concentrator and is protected
+
+- **split tunnel** - A VPN technology in which only some traffic is sent to the VPN concentrator and is protected, while other traffic directly accesses the Internet
+
+- **always-on VPN** - A VPN that allows the user to stay connected at all times instead of connecting and disconnecting from it
+
+- **Layer 2 Tunneling Protocol (L2TP)** - A VPN protocol that does not offer any encryption or protection so it is usually paired with IPsec
+
+- **HTML 5** - The current version of HTML that can be used as a “clientless” VPN on an endpoint so that no additional software must be installed
+
+- **network access control (NAC)** - A technique that examines the current state of a system or network device before it is allowed to connect to the network
+
+- **agents** - Software that is installed on endpoints to gather information for a NAC
+
+-  **data loss prevention (DLP)** - A system of security tools used to recognize and identify data that is critical to the organization and ensure it is protected
+
+-  **agentless** - A NAC system that does not require additional software to be installed on endpoints
+
+-  **rights management** - The authority of the owner of the data to impose restrictions on its use
+
+-  **masking** - Creating a copy of the original data but making unintelligible any sensitive elements
+
+-  **loop prevention** - A technology that uses the IEEE 802.1d standard spanning-tree protocol (STP) to avert a network loop
+
+-  **Broadcast storm prevention** - Steps that can be taken to avert a broadcast storm
+
+-  **tokenization** - Obfuscating sensitive data elements into a random string of characters and then stores them in a database for retrieval as needed
+
+-  **route security** - The trust of packets sent through a router
+
+-  **BPDU guard** - A feature on a switch that creates an alert when a BPDU is received from an endpoint
+
+-  **DHCP snooping** - A security technology in a switch that drops unacceptable DHCP traffic
+
+-  **port TAP (test access point)** - A device that transmits the send and receive data streams simultaneously on separate dedicated channels so that all data arrives at the monitoring tool in real time
+
+-  **network sensors** - Sensing devices used to monitor traffic
+
+-  **aggregators** - Network devices that combine multiple network connections into a single link
+
+-  **collectors** - Network devices that gather traffic
+
+-  **port mirroring** - A technology on a managed switch that copies traffic that occurs on some or all ports to a designated monitoring port on the switch
+
+-  **monitoring service** - An external third-party service that can provide additional resources to assist an organization in their cybersecurity defenses
+
+-  **File integrity monitors** - A system that detects any changes within the files that may indicate a cyberattack
+
+-  **Quality of Service (QoS)** - A set of network technologies used to guarantee a network’s ability to dependably serve resources and high-priority applications to endpoints
+
+-  **East-west traffic** - The movement of data from one server to another server within a data center
+
+-  **zero trust** - A strategic initiative about networks that is designed to prevent successful attacks by eliminating the concept of trust from an organization’s network architecture
+
+-  **virtual LAN (VLAN)** - A technology that allows scattered users to be logically grouped together even though they may be attached to different switches
+
+-  **Intranet** - A private network that belongs to an organization and can only be accessed by approved internal users
+
+-  **jump box** - A minimally configured administrator server (either physical or virtual) within the DMZ that is used to connect two dissimilar security zones while providing tightly restricted access between them
+
+-  **Extranet** - A private network that can also be accessed by authorized external customers, vendors, and partners
+
+-  **active-active** A configuration in which all load balancers are always active
+
+-  **scheduling** - Protocols that are used in load balancers to distribute the workload among devices
+
+-  **Load balancing** - A technology that can help to evenly distribute work across a network
+
+-  **active-passive** - A configuration in which the primary load balancer distributes the network traffic to the most suitable server while the secondary load balancer operates in a “listening mode.”
+
+-  **virtual IP (VIP)** - An IP address and a specific port number that can be used to reference different physical servers
+
+-  **port mirroring (port spanning)** - A technology on a managed switch that copies traffic that occurs on some or all ports to a designated monitoring port on the switch
+
 ## Example questions
 
 ###### [Week 10](#week-10-1)
