@@ -2159,3 +2159,31 @@ Module Objectives
 ## Essential concepts
 
 ###### [Week 10](#week-10-1)
+
+Module Objectives
+
+**1. List the different types of network security appliances and how they can be used**  
+- Security appliances  
+o firewalls  
+o proxy servers  
+o deception instruments  
+o intrusion detection and prevention systems  
+o network hardware security modules  
+- configuration management  
+
+**2. Describe network security technologies**  
+- access technologies  
+o access control list (ACL)  
+o virtual private network (VPN)  
+o network access control (NAC)  
+o data loss prevention (DLP)  
+- technologies for monitoring and managing  
+o port security  
+o packet capture and analysis  
+o monitoring services  
+o file integrity monitors  
+o quality of service (QoS)  
+- design technologies  
+o network segmentation
+o load balancing
+
