@@ -64,6 +64,14 @@
 
 - #### [Concepts](#essential-concepts-7)
 
+### [Week 10](#week-10-1)
+
+- #### [Vocab](#vocabulary-8)
+
+- #### [Questions](#example-questions-8)
+
+- #### [Concepts](#essential-concepts-8)
+
 # Week 1:
 
 - #### [Vocab](#vocabulary)
@@ -1973,3 +1981,25 @@ Module Objectives
 -	External perimeter defenses  
 -	Internal physical security controls  
 -	Computer hardware security
+
+# Week 10:
+
+#### [Vocab](#vocabulary-8)
+
+#### [Questions](#example-questions-8)
+
+#### [Concepts](#essential-concepts-8)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 10](#week-10-1)
+
+## Example questions
+
+###### [Week 10](#week-10-1)
+
+## Essential concepts
+
+###### [Week 10](#week-10-1)
