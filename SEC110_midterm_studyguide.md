@@ -2184,6 +2184,6 @@ o monitoring services
 o file integrity monitors  
 o quality of service (QoS)  
 - design technologies  
-o network segmentation
+o network segmentation  
 o load balancing
 
