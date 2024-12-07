@@ -2338,6 +2338,164 @@ o load balancing
 
 ###### [Week 15](#week-15-1)
 
+- **environmental disasters** – Disasters such as floods, hurricanes, and tornados that can impact an enterprise.
+
+- man-made disasters
+
+- internal disasters
+
+- external disasters
+
+- business continuity plan (BCP) -  a strategic document that provides alternative modes of operation for business activities that, if interrupted, could result in a significant loss to the enterprise
+
+- high availability
+
+- continuity of operation planning (COOP) - a federal initiative that is intended to encourage organizations to address how critical operations will continue under a broad range of negative circumstances
+
+- diversity
+
+- functional recovery plan
+
+- business impact analysis (BIA)
+
+- identification of critical systems
+
+- mission-essential functions
+
+- site risk assessment
+
+- single point of failure
+
+- restoration order
+
+- disaster recovery plan (DRP)
+
+- redundancy
+
+- revert to known state
+
+- mean time to recovery (MTTR)
+
+- live boot media
+
+- last known good configuration
+
+- mean time between failures (MTBF)
+
+- replication
+
+- nonpersistent
+
+- multipath
+
+- nic teaming
+
+- RAID (reduntant array of independent drives)
+
+- storage area network (SAN)
+
+- dual power supply
+
+- hot site
+
+- power distribution unit (PDU)
+
+- generator
+
+- uninterruptible power supply (UPS)
+
+- warm site
+
+- cold site
+
+- geographic dispersal
+
+- data backup
+
+- full backup
+
+- recovery time objective
+
+- recovery point objective
+
+- differential backup
+
+- incremental backup
+
+- backup copy
+
+- image backup
+
+- network-attached storage (NAS)
+
+- policy
+
+- distance considerations
+
+- password reuse
+
+- credential policies
+
+- password complexity
+
+- account audits
+
+- network location
+
+- password history
+
+- access policy
+
+- impossible travel
+
+- lockout
+
+- risky ip address
+
+- time of day
+
+- account permissions
+
+- time-based login
+
+- disablement
+
+- separation of duties
+
+- clean desk space
+
+- mandatory vacations
+
+- job rotation
+
+- least privilege
+
+- nondisclosure agreement (NDA)
+
+- onboarding
+
+- background checks
+
+- social media analysis
+
+- offboarding
+
+- change control policy
+
+- change management policy
+
+- acceptable use policy (AUP)
+
+- organizational policies
+
+- asset management policy
+
+- data retention policy
+
+- data classification policy
+
+- data governance policy
+
 ## Example questions
 
 ###### [Week 15](#week-15-1)
