@@ -2504,6 +2504,71 @@ o load balancing
 
 ###### [Week 15](#week-15-1)
 
+Module Objectives
+
+**1. Define business continuity**  
+- creating a BCP
+o identifying exposure to threats
+o creating preventative and recovery procedures
+o testing them to determine if they are sufficient  
+- business impact analysis  
+o impact on property
+o impact on finance
+o impact on safety
+o impact on reputation
+o impact on life
+- creating a DRP
+o order of restoration
+
+**2. Describe how to achieve resilience through redundancy**  
+- endpoints  
+o nonpersistent endpoints  
+- servers  
+o symmetric and asymmetric server clusters  
+o replication  
+- disks  
+o RAID  
+o SAN  
+o storage area network  
+o multipath  
+- networks  
+o virtual software defined-networks  
+- power  
+o dual power supply  
+o uninterruptible power supply  
+o backup generator  
+- sites  
+o hot site, warm site, cold site  
+- data backups  
+o data backup calculations  
+o creating different types of data backups  
+o storing backups  
+o RTO and RPO  
+
+**3. Explain what a policy is**  
+- what is a policy  
+o communicates consensus of judgement  
+o defines appropriate behavior for users  
+o identifies what tools and procedures are needed  
+o provides directives for human resources aaction in response to inappropriate behavior  
+o may be helpful if it is necessary to prosecute violators  
+
+**4. Describe different types of security policies**  
+- account management policies  
+- mobile device location-based policies  
+- personnel policies  
+o separation of duties  
+o job rotation  
+o mandatory vacations  
+o clean desk policy  
+o least privilege  
+o employee onboarding, offboarding  
+- acceptable use policy   
+- oragnizational policy  
+- data policies  
+
+
+
 # Week 16:
 
 #### [Vocab](#vocabulary-14)
