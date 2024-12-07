@@ -2249,6 +2249,126 @@ o load balancing
 
 ###### [Week 11](#week-11-1)
 
+- cloud service providers
+
+- cloud computing
+
+- commmunity cloud
+
+- private cloud
+
+- hybrid cloud
+
+- public cloud
+
+- on-premises
+
+- fog
+
+- edge
+
+- off-premises
+
+- thin client
+
+- cloud
+
+- transit gateway
+
+- infrastructure as a service
+
+- anything as a service
+
+- serverless infrastructure
+
+- platform as a service
+
+- software as a service
+
+- services integration
+
+- managed service provider
+
+- managed security service provider
+
+- cloud native controls
+
+- resoource ppolicies
+
+- high availability across zones
+
+- third party solutions
+
+- microservices architecture
+
+- cloud security audit
+
+- microservices APIs
+
+- secrets management
+
+- API inspection and integration
+
+- virtual network
+
+- private subnet
+
+- public subnet
+
+- security groups
+
+- dynamic resource allocation
+
+- instance awareness
+
+- application security
+
+- cloud access security broker
+
+- next generation secure web gateway
+
+- virtualization
+
+- open systems interconnection (OSI) seven-layer model
+
+- software-defined network
+
+- container
+
+- software-defined visibility
+
+- virtual machine sprawl avoidance
+
+- virtual machine escape protection
+
+- container security
+
+- simple network management protocol (SNMP)
+
+- FTP secure (FTPS)
+
+- FTP
+
+- secure FTP (SFTP)
+
+- domain name system security extensions (DNSSEC)
+
+- simple network management protocol v3 (SNMPv3)
+
+- simple mail transfer protocol (SMTP)
+
+- internet mail access protocol (IMAP)
+
+- post office protocol (POP)
+
+- LDAP injection attacks
+
+- lightweight directory access protocol (LDAP)
+
+-  internet protocol v6 (IPv6)
+
+-  directory service
+
 ## Example questions
 
 ###### [Week 11](#week-11-1)
@@ -2257,6 +2377,59 @@ o load balancing
 
 ###### [Week 11](#week-11-1)
 
+Module Objectives
+
+**1. Define the cloud and explain how it is used and managed**  
+- elastic and scalable, pay-per-use, on demand, resilient  
+- service models  
+o software as a service  
+o platform as a service  
+o infrastructure as a service  
+o anything as a service  
+- management  
+o services integration  
+o resource policies  
+o managed service provider  
+- security issues  
+0 unauthorized access to data  
+o lack of visibility  
+o insecure application program interfaces  
+o compliance regulations  
+o system vulnerabilities  
+
+**2. Explain virtualization**  
+- types of hypervisors  
+- software defined networks (SDN)  
+- software defined visibility (SDV)  
+- security concerns for virtual environments  
+o virtual machine sprawl  
+o virtual machine escape protection  
+
+**3. Describe cloud and virtualization security controls**  
+- cloud security controls  
+o conducting audits  
+o use regionis and zones  
+o secrets management  
+o enforce functional area mitigations  
+- features of cloud computing  
+o limited and automated replication  
+o secret-specific versioning  
+o audit logging  
+o default encryption  
+o extensibility  
+- cloud access security broker  
+- next generation secure web gateway  
+- cloud firewall  
+
+**4. List different secure network protocols**  
+- SNMP  
+- DNSSEC  
+- FTP  
+- secure email protocols  
+o SMTP  
+o POP  
+- LDAP  
+- IPv6  
 
 # Week 12:
 
