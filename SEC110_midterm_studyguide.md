@@ -72,7 +72,7 @@
 
 - #### [Concepts](#essential-concepts-8)
 
-- ### [Week 11](#week-11-1)
+### [Week 11](#week-11-1)
 
 - #### [Vocab](#vocabulary-9)
 
@@ -80,7 +80,7 @@
 
 - #### [Concepts](#essential-concepts-9)
 
-- ### [Week 12](#week-12-1)
+### [Week 12](#week-12-1)
 
 - #### [Vocab](#vocabulary-10)
 
@@ -88,7 +88,7 @@
 
 - #### [Concepts](#essential-concepts-10)
 
-- ### [Week 13](#week-13-1)
+### [Week 13](#week-13-1)
 
 - #### [Vocab](#vocabulary-11)
 
@@ -96,7 +96,7 @@
 
 - #### [Concepts](#essential-concepts-11)
 
-- - ### [Week 14](#week-14-1)
+### [Week 14](#week-14-1)
 
 - #### [Vocab](#vocabulary-12)
 
@@ -104,7 +104,7 @@
 
 - #### [Concepts](#essential-concepts-12)
 
-- - ### [Week 15](#week-15-1)
+### [Week 15](#week-15-1)
 
 - #### [Vocab](#vocabulary-13)
 
@@ -112,7 +112,7 @@
 
 - #### [Concepts](#essential-concepts-13)
 
-- - ### [Week 16](#week-16-1)
+### [Week 16](#week-16-1)
 
 - #### [Vocab](#vocabulary-14)
 
