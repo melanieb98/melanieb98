@@ -72,6 +72,54 @@
 
 - #### [Concepts](#essential-concepts-8)
 
+- ### [Week 11](#week-11-1)
+
+- #### [Vocab](#vocabulary-9)
+
+- #### [Questions](#example-questions-9)
+
+- #### [Concepts](#essential-concepts-9)
+
+- ### [Week 12](#week-12-1)
+
+- #### [Vocab](#vocabulary-10)
+
+- #### [Questions](#example-questions-10)
+
+- #### [Concepts](#essential-concepts-10)
+
+- ### [Week 13](#week-13-1)
+
+- #### [Vocab](#vocabulary-11)
+
+- #### [Questions](#example-questions-11)
+
+- #### [Concepts](#essential-concepts-11)
+
+- - ### [Week 14](#week-14-1)
+
+- #### [Vocab](#vocabulary-12)
+
+- #### [Questions](#example-questions-12)
+
+- #### [Concepts](#essential-concepts-12)
+
+- - ### [Week 15](#week-15-1)
+
+- #### [Vocab](#vocabulary-13)
+
+- #### [Questions](#example-questions-13)
+
+- #### [Concepts](#essential-concepts-13)
+
+- - ### [Week 16](#week-16-1)
+
+- #### [Vocab](#vocabulary-14)
+
+- #### [Questions](#example-questions-14)
+
+- #### [Concepts](#essential-concepts-14)
+
 # Week 1:
 
 - #### [Vocab](#vocabulary)
@@ -2187,3 +2235,135 @@ o quality of service (QoS)
 o network segmentation  
 o load balancing
 
+# Week 11:
+
+#### [Vocab](#vocabulary-9)
+
+#### [Questions](#example-questions-9)
+
+#### [Concepts](#essential-concepts-9)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 11](#week-11-1)
+
+## Example questions
+
+###### [Week 11](#week-11-1)
+
+## Essential concepts
+
+###### [Week 11](#week-11-1)
+
+
+# Week 12:
+
+#### [Vocab](#vocabulary-10)
+
+#### [Questions](#example-questions-10)
+
+#### [Concepts](#essential-concepts-10)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 12](#week-12-1)
+
+## Example questions
+
+###### [Week 12](#week-12-1)
+
+## Essential concepts
+
+###### [Week 12](#week-12-1)
+
+# Week 13:
+
+#### [Vocab](#vocabulary-11)
+
+#### [Questions](#example-questions-11)
+
+#### [Concepts](#essential-concepts-11)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 13](#week-13-1)
+
+## Example questions
+
+###### [Week 13](#week-13-1)
+
+## Essential concepts
+
+###### [Week 13](#week-13-1)
+
+# Week 14:
+
+#### [Vocab](#vocabulary-12)
+
+#### [Questions](#example-questions-12)
+
+#### [Concepts](#essential-concepts-12)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 14](#week-14-1)
+
+## Example questions
+
+###### [Week 14](#week-14-1)
+
+## Essential concepts
+
+###### [Week 14](#week-14-1)
+
+# Week 15:
+
+#### [Vocab](#vocabulary-13)
+
+#### [Questions](#example-questions-13)
+
+#### [Concepts](#essential-concepts-13)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 15](#week-15-1)
+
+## Example questions
+
+###### [Week 15](#week-15-1)
+
+## Essential concepts
+
+###### [Week 15](#week-15-1)
+
+# Week 16:
+
+#### [Vocab](#vocabulary-14)
+
+#### [Questions](#example-questions-14)
+
+#### [Concepts](#essential-concepts-14)
+
+###### [Back to the top](#table-of-contents)
+
+## Vocabulary
+
+###### [Week 16](#week-16-1)
+
+## Example questions
+
+###### [Week 16](#week-16-1)
+
+## Essential concepts
+
+###### [Week 16](#week-16-1)
