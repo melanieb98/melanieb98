@@ -2507,18 +2507,18 @@ o load balancing
 Module Objectives
 
 **1. Define business continuity**  
-- creating a BCP
-o identifying exposure to threats
-o creating preventative and recovery procedures
+- creating a BCP  
+o identifying exposure to threats  
+o creating preventative and recovery procedures  
 o testing them to determine if they are sufficient  
 - business impact analysis  
-o impact on property
-o impact on finance
-o impact on safety
-o impact on reputation
-o impact on life
-- creating a DRP
-o order of restoration
+o impact on property  
+o impact on finance  
+o impact on safety  
+o impact on reputation  
+o impact on life  
+- creating a DRP  
+o order of restoration  
 
 **2. Describe how to achieve resilience through redundancy**  
 - endpoints  
