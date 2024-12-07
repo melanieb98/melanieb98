@@ -2583,6 +2583,182 @@ o employee onboarding, offboarding
 
 ###### [Week 16](#week-16-1)
 
+- asset value
+
+- internal risk
+
+- likelihood of occurrence
+
+- risk
+
+- external risk
+
+- IP theft
+
+- multiparty
+
+- software compliance and licensing
+
+- risk control self-assessment
+
+- qualitative risk assessment
+
+- quantitative risk assessment
+
+- annualizaed rate of occurrence
+
+- risk register
+
+- risk matrix/heatmap
+
+- single loss expectancy
+
+- annualized loss expectancy
+
+- risk appetite
+
+- transference
+
+- acceptance
+
+- mitigation
+
+- avoidance
+
+- cybersecurity insurance
+
+- managerial
+
+- deterrent control
+
+- preventative control
+
+- operational
+
+- technical
+
+- physical control
+
+- compensating control
+
+- detective control
+
+- corrective control
+
+- residual risk
+
+- inherent risk
+
+- control risk
+
+- regulations that affect risk posture
+
+- vendors
+
+- service-level agreement
+
+- business partners
+
+- business partnership agreement
+
+- memorandum of understanding
+
+- measurement system analysis
+
+- end of service
+
+- end of life
+
+- risk awareness
+
+- gamification
+
+- capture the flag
+
+- role-based awareness training
+
+- computer-based training
+
+- phishing simulations
+
+- phishiong campaign
+
+- privacy
+
+- public notifications and disclosures
+
+- reputation damage
+
+- escalation
+
+- private
+
+- sensitive
+
+- fine
+
+- confidential
+
+- critical
+
+- public
+
+- proprietary
+
+- protexted health information
+
+- impact assessment
+
+- personally identifiable information
+
+- privacy notice
+
+- terms of agreement
+
+- data minimization
+
+- data masking
+
+- pseudo-anonymization
+
+- data anonymization
+
+- data sovereignty
+
+- data sanitization
+
+- information life cycle
+
+- shredding
+
+- degaussing
+
+- burning
+
+- pulverizing
+
+- pulping
+
+- third-party solution
+
+- detective controls
+
+- compensating controls
+
+- deterrent controls
+
+- corrective controls
+
+- managerial controls
+
+- preventative controls
+
+- physical controls
+
+- operational controls
+
+- technical controls
+
 ## Example questions
 
 ###### [Week 16](#week-16-1)
