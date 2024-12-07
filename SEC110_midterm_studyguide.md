@@ -2766,3 +2766,92 @@ o employee onboarding, offboarding
 ## Essential concepts
 
 ###### [Week 16](#week-16-1)
+
+module objectives
+
+
+**1. Define risk**  
+- assets are constantly under threat  
+- types of threats  
+o strategic  
+o compliance  
+o financial  
+o operational  
+o technical  
+o managerial  
+- types of risk  
+o internal and external  
+o legacy systems  
+o multiparty  
+o intellectual property  
+o software compliance and licensing  
+- risk analysis  
+o RCSA  
+o quantitative, qualitative risk assessments  
+o risk likelihood  
+o risk impact: SLE, ALE  
+o representing risks: risk registers, heatmap/matrix
+
+**2. Describe strategies for reducing risk**  
+- determining a strategy  
+o acceptance  
+o transference  
+o avoidance  
+o mitigation  
+- using controls  
+o managerial  
+o operational  
+o technical  
+o deterrent  
+o preventative  
+o physical  
+o detective  
+o compensating  
+o corrective
+- third-party risk management  
+- interoperability agreements  
+o SLA  
+o BPA  
+o MOU  
+o NDA  
+o MSA  
+o EOL  
+o EOS  
+- user training  
+o CBT  
+o role based awareness training  
+o gamification  
+o capture the flag  
+o phishing simulations  
+
+**3. Explain concerns surrounding data privacy**  
+- user reasons for concern  
+o individual inconveniences and identity theft  
+o association with groups  
+o statistical inferences  
+- organizational consequences tp data breach  
+o reputation damage  
+o IP theft  
+o fines  
+- data types  
+o confidential  
+o private 
+o sensitive  
+o critical  
+o proprietary  
+o public  
+o personally identifiable information  
+o protected health information  
+
+**4. List methods for protecting data**  
+- techniques to enhance privacy data protections  
+o data minimization  
+o data masking  
+o data anonymization  
+o data saznitization  
+o tokenization  
+- data sovereignty  
+- data destruction  
+o data life cycle
+o wiping  
+o degaussing  
