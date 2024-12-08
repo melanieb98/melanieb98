@@ -2445,6 +2445,8 @@ o POP
 
 ###### [Week 12](#week-12-1)
 
+
+
 ## Example questions
 
 ###### [Week 12](#week-12-1)
@@ -2452,6 +2454,98 @@ o POP
 ## Essential concepts
 
 ###### [Week 12](#week-12-1)
+
+- bluesnarfing
+
+- point-to-point
+
+- point-to-multipoint
+
+- bluejacking
+
+- bluetooth
+
+- radio frequency identification (RFID)
+
+- near field communication
+
+- payment method
+
+- wi-fi
+
+- controller APIs
+
+- wi-fi direct
+
+- ad hoc mode
+
+- captive portal AP
+
+- evil twin
+
+- rogue API
+
+- jamming
+
+- disassociation attack
+
+- media access control (MAC) address filtering
+
+- initialization vector (IV)
+
+- wi-fi protected setup
+
+- open method
+
+- preshared key
+
+- counter mode with cipher block chaining message authentication code protocol (CCMP)
+
+- enterprise method
+
+- wi-fi protected access 2 (WPA2)
+
+- IEEE 802.1x
+
+- cipher block chaining message authentication code (CBC-MAC)
+
+- exntensible authentication protocol (EAP)
+
+- EAP-TLS
+
+- EAP-FAST
+
+- EAP-TTLS
+
+- protected EAP (PEAP)
+
+- WPA3
+
+- site survey
+
+- simultaneous authenticaltion of equals (SAE)
+
+- wireless access point placement
+
+- heat map
+
+- channel overlays
+
+- wi-fi analyzer
+
+- 5g
+
+- baseband
+
+- narrowband internet of things (NB-IoT)
+
+- zigbee
+
+- sim card
+
+- controller AP
+
+- subscriber identity module (SIM) card
 
 # Week 13:
 
