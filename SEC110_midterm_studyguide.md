@@ -3383,6 +3383,66 @@ o employee onboarding, offboarding
 
 ###### [Week 16](#week-16-1)
 
+Q: which of the following types of risk control occurs during an attack?  
+A: detective control
+
+Q: how do phishing simulations contribute to enterprise security?  
+A: phishing simulations train employees on how to recognize phishing attacks
+
+Q: which of the following types of risk would organizations being impacted by an upstream organization's vulnerabilities be classified as?  
+A: multiparty risk
+
+Q: which of the following methods can be used to destroy data on paper?  
+A: pulping
+
+Q: you are the cybersecurity chief of an enterprise. a risk analyst new to your company has come to you about a recent report compiled by the team's lead risk analyst. according to the new analyst, the report overemphasizes the risk posed by employees who currently have broad network access and puts too much weight on the suggestion to immediately limit user access as much as possible. according to the new analyst, not only does the report not nmention the risk posed by a hacktivist group that has successfully attacked other companies in the same industry, it doesn't mention data points related to those breaches and your company's risk of being a future target of the group. how should you address this issue so that future reports and risk analyses are more accurate and cover as many risks as needed?  
+A: implement risk control self-assessment 
+
+Q: several quantitative tools like mean time between failure (MTBF), mean time to recovery (MTTR), mean time to failure (MTTF), and failure in time (FIT) can be used to predict the likelihood of the risk. which of these tools perform similar functions?  
+A: MTBF and FIT
+
+Q: in an interview, you are asked to explain how gamification contributes to enterprise security. how should you reply?  
+A: instructional gaming can train employees on the details of different security risks while keeping them engaged
+
+Q: what does the end-of-service notice indicate?  
+A: the enterprise will no longer offer support services for a product
+
+Q: your company has hired a contractor to build fences surrounding the office building perimeter and install signs that say "premises under 24-hour video surveillance." when do these controls occur?  
+A: the fence and the signs should both be installked before an attack
+
+Q: you are assigned to destroy the data stored in electrical storage by degaussing. you need to ensure that the drive is destroyed. what should you do before degaussing so that the destruction can be verified?  
+A: you should wipe the data before degaussing
+
+Q: what should be done when the information life cycle of the data collected by an organization ends?  
+A: the data should be destroyed
+
+Q: in a security review meeting, you are asked to appropriately handle the enterprise's senssitive data. how should you configure the security of the data?  
+A: give access only to employees who need and have been approved to access it
+
+Q: after reviewing the data collection procedures in your organization, a court ordered you to issue a document that specifies how the organization uses the collected personal information. this document must be displayed to the user before allowing them to share personal data. whic hof the following documents should you prepare?  
+A: privacy notice
+
+Q: when your enterprise's colected data information life cycle ended, you were asked to destroy the data stored on magnetic storage devices. which of the following techniques should you use to destroy the data?  
+A: degauss the data
+
+Q: you are the chief security administrator in your enterprise. you are asked to train every employee, from top-level officers to front gate security officers, to make them aware of various security risks. which of the following training techniques should you use?  
+A: role-based awareness training 
+
+Q: in 2016, your enterporise issued an end-of-life notice for a product. in 2020, an end-of-service notice was issued for the same product. what does this mean?  
+A: your company stopped manufacturing a product in 2016, and all maintenance services for the product stopped in 2020 
+
+Q: which control discourages security violations before their occurrence?  
+A: deterrent control
+
+Q: you were hired by a social media platform to analyze different user concerns regarding data privacy. after conducting a survey, you found that the concern of a majority of users is personalized ads. which of the following should you mention in your report as a major concern?  
+A: individual inconveniences
+
+Q: which risk remains after additional controls are applied?  
+A: residual risk 
+
+Q: why can the accuracy of data collected from users not be verified?  
+A: users have no right to correct or control the information gathered 
+
 ## Essential concepts
 
 ###### [Week 16](#week-16-1)
