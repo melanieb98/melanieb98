@@ -2741,6 +2741,65 @@ A: spectrum selection
 
 ###### [Week 13](#week-13-1)
 
+Q: which of the following authentication methods belongs in the "something you have" category?  
+A: security key
+
+Q: the following statements regarding centralized administration concepts are presented to you in an interview in which only one of them is correct. which of these is correct?  
+A: extensible authenticaltion protocol is a framework to transport authentication protocols
+
+Q: you are working as a security expert in an e-commerce enterprise. your company recently decided on a short-term collaboration with a small business named BUyMe, and the following issue arose. whenever your customers purchase any product from BuyMe, the e-commerce website redirects them to the BuyMe website, asking for aditional authentication. this results in customers abandoning their purchases. to solve this issue, both enterprises agree to use a single authentication process wherein the users, once logged in to your website, can purchase from BuyMe without additional steps. how should you implement this without storing the customers' credentials on the BuyMe server?  
+A: use SAML (security assertion markup language) 
+
+Q: in an interview, you were asekd to choose the least vulnerable password from the following list. which of the following should you choose?
+A:
+
+Q: you want to manage your passwords for different accounts to optimally secure passwords from compromise. which of the following password management methods should you use?  
+A: 
+
+Q: which of the following is an authentication system that issues a ticket after verifying the credentials by which you can authenticate other services?  
+A: kerberos
+
+Q: you are a cyber forensic specialist, and you are asked to retrieve the password of an employee account suspected of being an imposter. as you are provided with the enterprise's strong password policy, which of the following methods will be the easiest for you to use when retrieving the password?  
+A: rule attack
+
+Q: an attacker collected many usernames from a website and tried to login into the accounts using the password "passw0rd". what type of attack was this?  
+A: password spraying
+
+Q: windows picture password belongs to which of the following?  
+A: cognitive biometrics
+
+Q: how does the single sign-on enhance secure authentication?  
+A: implementing a single sign-on will reduce the number of passwords needing to be remembered
+
+Q: which of the following is an authentication system that uses UDP over TCP?  
+A: RADIUS
+
+Q: which of the following is a hardware-based solution for password security?  
+A: password key
+
+Q: you are asked to choose a secure authentication method other than a username and password for the emplotees to access your enterprise's database. which of the following should you choose?  
+A: security key authentication
+
+Q: in a multifactor authentication-enabled facility, you are asked the following question: "what type of food was served on your child's first birthday?" which of the following is the authentication method used here?  
+A: cognitive biometrics
+
+Q: you are working as a security admin in an enterprise. while you were analyzing different password attacks, you found that whenever an individual user's password gets cracked, another user with the same password residing in the same password digest file also has their account compromised. how should you prevent this from happening in the future?  
+A: you should add salt to the passwords before hashing
+
+Q: in an interview, you were asked to crack a password and told that the password is a commonly used word. which of the following methods should you apply?  
+A: you should perform a dictionary attack
+
+Q: in an interview, you are asked to compare the following statements regarding different authentication concepts and identify the correct statement. which of the following statements is correct  
+A: a person's vein can be used to uniquely authenticate an individual
+
+Q: you want to implement an authentication method so that different password attacks, like dictionary attacks, brute force attacks, etc., will not result in unauthorized access to the web application hosted by your enterprise. you want to do this by not using any specialized hardware or amking any changes to the user's activity during the authentication process. which of the following methods should you apply?  
+A: you should implement keystroke dynamics
+
+Q: the following data is being used for a password attack: "?u ?l ?l ?l ?l ?d ?d ?d ?d." which of the following types of attack is this?  
+A: rule attack
+
+Q: 
+
 ## Essential concepts
 
 ###### [Week 13](#week-13-1)
