@@ -2204,6 +2204,66 @@ Module Objectives
 
 ###### [Week 10](#week-10-1)
 
+Q: in an interview, max was asked to tell one difference between a software firewall and a virtual firewall. how should max answer?  
+A: Software firewalls are locally installed on a device, virtual firewall runs in the cloud
+
+Q: an employee at your enterprise is caught violating company policies by transferring confidential data to his private email. as a security admin, you are asked to prevent this from happening in the future. which of the following actions should you perform?  
+A: set up a DLP (data loss prevention)
+
+Q: as a cybersecurity specialist, you are asked to defend the web app hosted by your enterprise from web application attackss like cross-site scripting, SQL injections, etc. which of the following actions should you take?  
+A: install a WAF (web application firewall)
+
+Q: how do NACs ensure that a device is safe to connect to a secure network?  
+A: the NAC issues a health certificate, only allowing healthy devices to connect to the secured network
+
+Q: in a security review meeting, you are asked to take the appropriate security measures to mitigate IP spoofing attacks against the enterprise network. which of the following methods should you apply?  
+A: set up an ACL (access control list)
+
+Q: what action does a BPDU guard take when a BPDU is received from an endpoint and not a switch?  
+A: the port is disabled, and no traffic will be sent or received by the port.
+
+Q: you are asked to configure your firewall in such a way that the traffic from source address range 117.112.10.25 through 117.112.15.100 is allowed, which traffic from 117.112.12.25 through 117.112.13.25 is denied, and traffic from 117.112.12.200 through 117.112.13.10 is allowed. how should you configure the firewall? 
+A: allow 117.112.10.25 through 117.112.15.100; deny 117.112.12.25 through 117.112.13.25; force allow 117.112.12.200 through 117.112.13.10
+
+Q: which of the following is a network set up with intentional vulnerabilities?  
+A: honeynet
+
+Q: which of the following best describes a host-based firewall?  
+A: a host-based firewall is a software firewall that protects a single endpoint device
+
+Q: which type of intrusion system can also block attacks?  
+A: inline
+
+Q: you are analyzing the settings for your network's firewall. there is currently a log-only rule set for the source address 112.101.2.4. which of the following has created a log entry in the firewall?  
+A: a rule is set to allow all packets from 112.101.2.1 through 112.101.2.22 
+
+Q: what is a jump box used for?  
+A: restricting access to a demilitarized zone
+
+Q: which of the following best describes east-west traffic?  
+A: movement of data from one server to another within a data center 
+
+Q: which of the following beset describes an extranet?  
+A: private network only accessed by an authorized proxy
+
+Q: which of the following is a deception instrument?  
+A: sinkhole
+
+Q: you are asked to configure your enterprise network in such a way that the customer support team gets a higher priority in the network and can conduct customer video calls without any connectivity issues. which of the following methods should you apply?  
+A: you should set up quality of service to give higher priority to the customer support team
+
+Q: which monitoring methodology will trigger the IDS if any application tries to scan multiple ports?  
+A: 
+
+Q: which of the following techniques is the best fit for monitoring traffic on switches with large volumes of traffic?  
+A: 
+
+Q: as a cybersecurity expert, you are asked to take adequate measures to mitigate DDoS attacks on your enterprise servers. which of the following techniques should you apply?  
+A: you should set up a DNS sinkhole
+
+Q: in an interview, you are asked to analyze the following statements regarding secure network designs and choose the correct one. which of the following should you choose?  
+A: load balancers can detect and stop protocol attacks directed at a server or application
+
 ## Essential concepts
 
 ###### [Week 10](#week-10-1)
