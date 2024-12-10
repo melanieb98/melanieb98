@@ -2822,6 +2822,66 @@ Q:
 
 ###### [Week 14](#week-14-1)
 
+Q: you are a cybersecurity forensic analyst. when conducting an investigation, which of the following actions should you perform first to ensure the highest chance of success in the investigation?  
+A: secure the evidence
+
+Q: in an interview, you are asked to explain why software forensic tools are used more than forensic hardware workstations. how should you reply?  
+A: forensic hardware workstations are more expensive than forensic software tools
+
+Q: you are working as a security administrator. your enterprise has asked you to choose an access control scheme in which a user is authorized to access the resources if the user has a specific attribute and denied if they don't. which of the following access control schemes should you choose?  
+A: attribute-based access control
+
+Q: why are mobile devices critical to a digital forensics investigation?  
+A: mobile devices are almost continually in a user's posession 
+
+Q: which of the following network-based device logs are the least important when performing an incident investigation?  
+A: routers and switches
+
+Q: in a security review meeting, you are asked to make sure that the cybersecurity team is constantly updated on the tactics used by threat actors when they interact with systems during an attack. to which of the following attack frameworks will you refer to meet the goal?  
+A: MITRE ATT&CK
+
+Q: which of the following is an example of evidence collected from metadata?  
+A: time stamp
+
+Q: while talking to a new client, the client asked you why access control is mostly used in enterprise networks rather than home networks. how should you reply?  
+A: an enterprise network will have more sensitive and confidential information 
+
+Q: which of the following access management controls best fits a home network?  
+A: discretionary access control 
+
+Q: you are a cybersecurity investigator who needs query log files for faster analysis during an incident investigation. which of the following log management tools should you use?  
+A: journalctl
+
+Q: in a security meeting, you are asked to suggest access control schemes in which you have high flexibility when configuring access to the enterprise resources. which of the following should you suggest?  
+A: attribute-based access control 
+
+Q: which of the following access control schemes is most secure?  
+A: mandatory access control 
+
+Q: which of the following is performed during the incident response phase?  
+A: making configuration changes
+
+Q: you are a senior security admin in your enterprise. you have been asked to perform an incident response exercise so that you and your colleagues can analyze every possible scenario in case of an attack in the most realistic manner. which of the following actions should you take?  
+A: you should run a plausible simulated attack on the network
+
+Q: who implements access control based on the security level determined by the data owner?  
+A: data custodian 
+
+Q: your enterprise devices are configured with mandatory access control. how should you control user access so that files with a "top secret" label cannot be accessed by any users while "secret" files remain accessible?  
+A: you should set the clearance of all users to "secret" 
+
+Q: which of the following helps achieve data privacy in an enterprise netowrk?  
+A: access control schemes
+
+Q: primary investigation after an enterprise security beach revealed that the breach was caused by an unauthorized device physically connected to the enterprise netowrk. which of the following logs should you examine first while conducting a detailed investigation?  
+A: DHCP server logs
+
+Q: which of the following log management tools has content filtering?  
+A: syslog-ng 
+
+Q: windows switches to secure desktop mode when the UAC prompt appears. what is the objective os secure desktop mode?  
+A: to prevent malware from tricking users by spoofing what appears on the screen
+
 ## Essential concepts
 
 ###### [Week 14](#week-14-1)
