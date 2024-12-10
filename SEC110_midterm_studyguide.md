@@ -2433,6 +2433,67 @@ o load balancing
 
 ###### [Week 11](#week-11-1)
 
+Q: pat is asked to automate critical security functions like responding to detected threat patterns in an enterprise network. which of the following should be done by pat?  
+A: use software-defined visibility
+
+Q: kane was trasnferring files from a file transfer protocol server to his local machine simultaneously. he sniffed the traffic to find that only the control port commands are encrypted, and the data port is not encrypted. what protocol did kane use to transfer the files?  
+A: FTPS (file transfer protocol secure)
+
+Q: which of the following protocols can be used for secure video and voice calling?  
+A: SRTP (secure real-time transport protocol)
+
+Q: which of the following is a feature of secrets management?  
+A: default encryption
+
+Q: you are a security consultant. an enterprise client contact you because their mail domanin is blocked due to an unidentified entity using it to send spam how should you advise them to prevent this from happening in the future?  
+A: configure the SMTP (simple mail transfer protocol) relay to limit relays to only local users
+
+Q: in an interview, you are asked about the role played by virtual machines in load balancing. which of the following should be your reply?  
+A: if the virtual machine's load increases, the virtual machine can be migrated to another physical machine with more capabilities
+
+Q: which of the following is a virtualization instance that uses OS components for virtualization?  
+A: container
+
+Q: which of the following can be achieved using availability zones in cloud computing?  
+A: fault tolerance
+
+Q: you are working as a cloud administrator, and are asked to migrate a virtual machine to a more capable physical machine, as the demand for the service hosted on the VM increased past its limit. as your enterprise still uses conventional switches, migration took time and resulted in customer dissatisfaction. how should you mitigate this issue in the future?  
+A: implement software-defined network
+
+Q: what is a type I hypervisor?  
+A: a hypervisor that runs directly on computer hardware
+
+Q: in an interview, the interviewer asks you to boot a PC. before the boot process begins, an interface asks you to choose between windows 10 and ubuntu linux. the interviewer then asks you to indentify the type of VR monitor program being used. what should your reply be?  
+A: type I hypervisor
+
+Q: in a practical test, steve was asked to securely connect different on-premises computing devices with a database deploted in the cloud. what action is steve taking?  
+A: creating a virtual network
+
+Q: which of the following protocols can be used for secure routing and switching?  
+A: IPsec
+
+Q: which of the following is the most versatile cloud model  
+A: 
+
+Q: which of the following tools can be used to protect containers from attack?  
+A: security-enhanced linux
+
+Q: marnus is working as a cloud administrator, and he has been asked to perform segmentation on specific cloud networks. which of the following should be done by marnus?  
+A: create network rules for the services permitted between accessible zones to make sure endpoints belonging to other approved zones can reach them 
+
+Q: david is asked to test a new configuration on a virtual machine; if it does not work, it shuold roll back to the older state. what should david do before testing the new configuration so that he can roll it back to the previous state if needed?  
+A: take a snapshot of the virtual machine before testing the configuration 
+
+Q: you decided to test a potential malware application by sandboxing. however, you want to ensure that if the application is infected, it will not affect the host operating system. what should you do to ensure that the host OS is protected?  
+A: implement virtual machine escape protection
+
+Q: mike, an employee at your company, approached you seeking help with his virtual machine. he wants to save the current state of the machine to roll back to the saved state in case of a malfunction. which of the following techniques can help mike?  
+A: take snapshots to save the virtual machine state
+
+Q: which of the following tools can be used for virtual machine sprawl avoidance?  
+A: virtual machine manager
+
+
 ## Essential concepts
 
 ###### [Week 11](#week-11-1)
