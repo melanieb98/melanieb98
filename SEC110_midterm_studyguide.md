@@ -3064,6 +3064,66 @@ A: to prevent malware from tricking users by spoofing what appears on the screen
 
 ## Essential concepts
 
+Q: you are working as a cybersecurity expert in an enterprise. while examining the newly established enterprise network, you found that when a request to write data to the drive is made, the controller sends that request to each drive. when a read action is required, the data is read twice, once from each drive. which type of RAID is used in the newly established network?  
+A: RAID level 1
+
+Q: you are a security administrator for an enterprise. you were asked to implement a cloud app security function in your enterprise netowrk so that login attempts from identified threat actors can be restricted. which of the following cloud app security function should you use?  
+A: risky IP address
+
+Q: which of the following documents provide alternative modes of operation for interrupted business activities?  
+A: business continuity plan 
+
+Q: in an intewview, you are asked to explain the major objective of having resilience in an organization. how should you respond?  
+A: the major objective of resilience in an organization is to provide uninterrupted services
+
+Q: you want to examine every future login attempt made on the enterprise devices. which of the following windows group policy settings should you enable to make sure every login attempt is logged?  
+A: account audits
+
+Q: you are asked to construct a server cluster to provide resilience to the webserver hosted by your enterprise. which of the following clustering systems should you implement to ensure the standby server only works when the other server fails?  
+A: asymmetric
+
+Q: while preparing a continuity plan, you were asked to choose a technique by which the bcakup data stored on the cloud can be accessed from any location. which of the following techniques should you choose?  
+A: 
+
+Q: which cloud security app features check the last login's location and current login attempt to restrict login if found suspicious?  
+A: impossible travel
+
+Q: "keep passwords secure and do not share accounts. authorized users are responsible for the security of their passwords and accounts." "all computers and laptops should be secured with a password-protected screensaver, setting the automatic activcation feature set at 10 minutes or less, or logging off when the host in unattended." which policy includes these directives?  
+A: acceptable use policy  
+
+Q: which of the following policies propose using non-disclosure agreements (NDA)?  
+A: onboarding and offboarding
+
+Q: why is maintaining a hot recovery site important for e-commerce businesses?  
+A: 
+
+Q: which of the following is NOT a part of business continuity planning?  
+A: contingency actions
+
+Q: one of the important systems in your organization was accidentally exposed to malware. which of the following features should you use to manage the risk of malware?  
+A: revert to a known state
+
+Q: which of the following RAID configurations have no fault tolerance?  
+A: RAID level 0
+
+Q: what is the power supply device that can ensure a correct and constant power level is delivered to a server?  
+A: online UPS
+
+Q: which of the following best describes a fake RAID?  
+A: software RAID assisted by BIOS
+
+Q: which of the following is an agreement that ensures an employee does not misuse enterprise data?  
+A: nondisclosure agreement 
+
+Q: you work at the headquarters of an enterprise known for unethical practices. the company has many remote sites, but most functions are performed at one location. your enterprise recently hired a third-party vendor known for high-accuracy business impact analyses. the BIA performed by the vendor has since proved wrong, as an incident impacted the business significantly more than forecast. you are assigned to conduct a study on BIA's misconception and submit a report. what should you investigate as the possible reason for the BIA's inaccuracy?  
+A: the vendor overlooked the organization's remote sites.
+
+Q: "computer workstations must be locked when the workspace is unoccupied and turned off at the end of the business day." "Laptops must be either locked with a locking cable or locked in a drawer or filing cabinet." which policy includes these directives?  
+A: clean desk space 
+
+Q: what do servers connected in a cluster use to communicate with each other?  
+A: private cluster connections 
+
 ###### [Week 15](#week-15-1)
 
 Module Objectives
@@ -3128,8 +3188,6 @@ o employee onboarding, offboarding
 - acceptable use policy   
 - oragnizational policy  
 - data policies  
-
-
 
 # Week 16:
 
