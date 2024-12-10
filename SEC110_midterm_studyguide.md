@@ -2566,16 +2566,6 @@ o POP
 
 ###### [Week 12](#week-12-1)
 
-
-
-## Example questions
-
-###### [Week 12](#week-12-1)
-
-## Essential concepts
-
-###### [Week 12](#week-12-1)
-
 - bluesnarfing
 
 - point-to-point
@@ -2667,6 +2657,71 @@ o POP
 - controller AP
 
 - subscriber identity module (SIM) card
+
+## Example questions
+
+###### [Week 12](#week-12-1)
+
+Q: which of the following contains the field that indicates the function of the packet and an identifier field used to match requests and responses and the type of data being transported along with the data itself?  
+A: EAP (extensible authentication protocol) 
+
+Q: bob has been asked to do research into increasing the accuracy in identifying rogue APs in his enterprise. which rogue AP system detection probe will allow his company's IT department to monitor the airwaves for traffic, scan and record wireless signals within its range (even when the device is idle or not receiving any rtansmission, and thenm report this information to a centralized database?  
+A: wireless device probe
+
+Q: which technology under wireless communication is an integrated circuit that securely stores information used to identify and authenticate the IoT device?  
+A: subscriber identity module
+
+Q: which of the following attacks is considered easy, allowing threat actors to access user data and read through passwords and PINs, and why is it considered so?  
+A: a WLAN (wireless local area network) consumer attack, because many users fail to properly confiiugre security on their home WLANs 
+
+Q: what type of APs can be managed by wireless LAN controllers (WLCs)?  
+A: controller AP 
+
+Q: why are jamming attacks generally rare?  
+A: they require sophisticated, expensive equipment
+
+Q: which security protocol encrypts transmissions by using a shared secret key combined with an initialization vector (IV) that changes each time a packet is encrypted?  
+A: WEP (wired equivalent privacy) 
+
+Q: justin works for an automobile manufacturer. the company is designing a new car that enables the users to use the car as a mobile office. to achieve this, the car must provide an internet connection as an access point, mirror smartphone screen on the LED dash display, and have a hands-free system where drivers can use voice controls to browse their phone's contact list, make and receive hands-free phone calls, and use navigation apps. which technology should he use and why?  
+A: bluetooth, because it can be used to pair devices, allowing for hands-free and screen mirroring features
+
+Q: sherlin is the owner of a cosmetics store. she wanted to introduce a wireless network in the store, but her employees were against it. sherlin ended up purchasing an inexpensive wireless router and secretly connected it to the wired network. unfortunately, this unknowingly provided open access to the wireless signal. what type of attack has sherlin made her store's network vulnerable to?  
+A: rogue access point 
+
+Q: which of the following statements correctly defines jamming?  
+A: an attacker intentionally floods the RF spectrum with extraneous RF signal "noise" that creates interference and prevents communications
+
+Q: which wireless technology will john use to provide wide-range cellular service that focuses on indoor coverage, low cost, long battery life, high connection density, and has a low-power wide-area network?  
+A: narrowband IoT
+
+Q: which of the following differentiates an access point probe and a dedicated probe?  
+A: a dedicated probe only monitors RF transmissions, while an access probe can serve as both a probe and an access point that can probide roaming to wirelesss users
+
+Q: zara has been instructed to organize an event where top companies will come and give a webinar. since the event is large and the number of people attending is substantial, zara needs to ensure that there are no disturbances. she thinks preventing devices from communicating and calls from being made or received is the easiest solution. which factor should zara use to achieve this?  
+A: jamming 
+
+Q: which protocol should john select to prevent unwanted network access and be configureds to permit traffic only from specific addresses and provide security?  
+A: MAC (MAC address filtering)
+
+Q: which site survey tool is used to visually represent wireless network details such as channel bandwidth, channel coverage, data rate, and interference, among others  
+A: 
+
+Q: in which type of RFID attack can unauthorized users listen to communications between RFID tags and readers?  
+A: eavesdropping
+
+Q: sherry needs to suggest a technology that can enable smartphones or laptops to control multiple devices like speakers, mice, etc., within a 100-meter distance. the device should also be connected without any wired connection. which technology should sherry suggest?  
+A: bluetooth technology can be used to connect devices without any wired communication
+
+Q: sam is asked to help his company design a wireless network for their new location. which of the following protocols has the strongest wireless security, supports a longer bit of encryption, and improved interaction capabilities with the internet of things (IoT) devices?  
+A: WPA3
+
+Q: zain, a telecom engineer, plans to relocate a particular AP antenna to a new location. which of the following configureation options will he use to adjust frequency bands, optimum channels, and available spectrum for data transfer?  
+A: spectrum selection
+
+## Essential concepts
+
+###### [Week 12](#week-12-1)
 
 # Week 13:
 
